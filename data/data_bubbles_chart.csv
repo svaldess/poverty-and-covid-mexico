@@ -1,0 +1,2190 @@
+OID,Municipality,State,below_wellness_class,percentage_below_line,covid_total,population,covid_dead_total
+1617,Aguascalientes,Aguascalientes,More than 25%,37.6,1837,861446,149
+1622,Asientos,Aguascalientes,More than 50%,61.7,28,46624,3
+1623,Calvillo,Aguascalientes,More than 50%,63.1,36,52773,2
+1621,Cosio,Aguascalientes,More than 50%,51.2,42,15321,0
+1615,Jesus Maria,Aguascalientes,More than 25%,31.6,74,125750,4
+1625,Pabellon de Arteaga,Aguascalientes,More than 25%,45.5,93,45733,6
+1619,Rincon de Romos,Aguascalientes,More than 50%,59.9,129,50895,5
+1618,San Jose de Gracia,Aguascalientes,More than 50%,64.1,23,8768,0
+1620,Tepezala,Aguascalientes,More than 50%,57.7,64,20484,2
+1624,El Llano,Aguascalientes,More than 50%,63.2,6,19955,0
+1616,San Francisco de los Romo,Aguascalientes,More than 25%,45,30,45152,4
+348,Ensenada,Baja California,More than 25%,40.1,939,569425,155
+347,Mexicali,Baja California,More than 25%,33.8,5110,1014987,1073
+345,Tecate,Baja California,More than 25%,33.8,233,110870,63
+344,Tijuana,Baja California,More than 25%,37.9,2845,1693494,1123
+346,Playas de Rosarito,Baja California,More than 25%,43.3,89,110698,22
+354,Comondu,Baja California Sur,More than 25%,45.6,152,82445,16
+353,Mulege,Baja California Sur,More than 25%,35,242,65196,12
+352,La Paz,Baja California Sur,More than 25%,31.5,582,293687,48
+355,Los Cabos,Baja California Sur,More than 25%,32.5,490,306837,36
+351,Loreto,Baja California Sur,More than 50%,51,111,22045,2
+2439,Calkini,Campeche,More than 50%,62.1,54,53086,10
+2441,Campeche,Campeche,More than 25%,39.6,733,283248,81
+2438,Carmen,Campeche,More than 25%,32.2,841,276498,128
+2447,Champoton,Campeche,More than 50%,61.3,62,89851,10
+2440,Hecelchakan,Campeche,More than 50%,61,50,29167,6
+2446,Hopelchan,Campeche,More than 50%,70.6,20,34592,2
+2437,Palizada,Campeche,More than 50%,63.3,7,9092,3
+2445,Tenabo,Campeche,More than 50%,58.2,24,11093,3
+2444,Escarcega,Campeche,More than 50%,61.3,154,61888,5
+2443,Calakmul,Campeche,More than 50%,74.7,14,22738,3
+2442,Candelaria,Campeche,More than 50%,68.4,39,40532,5
+2286,Acuña,Coahuila,More than 25%,46.6,363,149023,44
+2285,Allende,Coahuila,More than 25%,47.6,6,22818,2
+2284,Arteaga,Coahuila,More than 50%,51.3,11,22022,1
+2282,Castaños,Coahuila,More than 25%,42.2,25,29062,5
+2281,Cuatro Cienegas,Coahuila,More than 50%,51,16,14168,0
+2280,Escobedo,Coahuila,More than 50%,64.2,2,3094,0
+2279,Francisco I. Madero,Coahuila,More than 50%,50.9,196,58412,16
+2278,Frontera,Coahuila,More than 25%,29.8,93,82558,10
+2277,General Cepeda,Coahuila,More than 50%,69.2,1,11061,0
+2276,Guerrero,Coahuila,More than 50%,53.4,1,1706,0
+2274,Jimenez,Coahuila,More than 50%,56.6,3,10341,3
+2273,Juarez,Coahuila,More than 25%,27.9,2,1582,1
+2252,Matamoros,Coahuila,More than 50%,52.8,175,108504,18
+2271,Monclova,Coahuila,More than 25%,33.3,362,230423,79
+2270,Morelos,Coahuila,More than 50%,62.1,3,8646,1
+2269,Muzquiz,Coahuila,More than 25%,47.4,74,70744,10
+2268,Nadadores,Coahuila,More than 25%,32.2,3,6650,1
+2267,Nava,Coahuila,More than 25%,37.8,14,31653,1
+2266,Ocampo,Coahuila,More than 50%,55.1,30,11607,0
+2251,Parras,Coahuila,More than 50%,53.3,27,43759,3
+2265,Piedras Negras,Coahuila,More than 25%,49.3,201,162764,21
+2264,Progreso,Coahuila,More than 25%,33.6,1,3320,0
+2263,Ramos Arizpe,Coahuila,More than 25%,28,23,94085,2
+2262,Sabinas,Coahuila,More than 25%,40.8,198,63994,9
+2261,Sacramento,Coahuila,More than 25%,31.3,27,2372,2
+2260,Saltillo,Coahuila,More than 25%,26.8,593,834024,73
+2259,San Buenaventura,Coahuila,More than 25%,33.7,8,23764,6
+2258,San Juan de Sabinas,Coahuila,More than 25%,39.8,152,43824,6
+2257,San Pedro,Coahuila,More than 50%,68.3,351,94237,24
+2250,Torreon,Coahuila,More than 25%,40,1890,677507,115
+2255,Viesca,Coahuila,More than 50%,65.6,8,19533,1
+2254,Villa Union,Coahuila,More than 50%,57.4,12,6382,1
+2253,Zaragoza,Coahuila,More than 50%,50.6,12,13307,2
+358,Armeria,Colima,More than 50%,56.9,10,29101,5
+363,Colima,Colima,More than 25%,35.7,46,153497,17
+361,Comala,Colima,More than 25%,48.5,3,23998,0
+359,Coquimatlan,Colima,More than 50%,52.7,7,20598,3
+365,Cuauhtemoc,Colima,More than 25%,48.4,9,30485,2
+364,Ixtlahuacan,Colima,More than 50%,62.2,5,5656,1
+357,Manzanillo,Colima,More than 25%,35.4,374,192009,60
+362,Minatitlan,Colima,More than 50%,56.6,1,9194,0
+356,Tecoman,Colima,More than 50%,55.1,75,123801,19
+360,Villa de Alvarez,Colima,More than 25%,32.1,48,139201,11
+845,Acacoyagua,Chiapas,More than 75%,79.7,2,20706,0
+844,Acala,Chiapas,More than 75%,77.8,18,31527,7
+798,Acapetahua,Chiapas,More than 75%,75,8,38014,1
+843,Altamirano,Chiapas,More than 75%,96.2,15,33252,1
+842,Amatan,Chiapas,More than 75%,92.2,1,14394,0
+841,Amatenango de la Frontera,Chiapas,More than 75%,84.3,4,26554,0
+840,Amatenango del Valle,Chiapas,More than 75%,99,,10030,
+839,Angel Albino Corzo,Chiapas,More than 75%,89.8,1,19894,0
+815,Arriaga,Chiapas,More than 50%,67.9,49,49666,9
+838,Bejucal de Ocampo,Chiapas,More than 75%,98,1,7581,0
+904,Bella Vista,Chiapas,More than 75%,89.4,2,14326,0
+796,Berriozabal,Chiapas,More than 50%,69.9,45,54465,4
+837,Bochil,Chiapas,More than 75%,84.9,29,25752,4
+836,El Bosque,Chiapas,More than 75%,98.3,2,22871,0
+835,Cacahoatan,Chiapas,More than 75%,77.9,20,40968,4
+834,Catazaja,Chiapas,More than 75%,76.9,6,20950,0
+902,Cintalapa,Chiapas,More than 50%,73,11,90776,7
+833,Coapilla,Chiapas,More than 75%,96.2,2,9318,0
+832,Comitan de Dominguez,Chiapas,More than 50%,69.2,112,173188,17
+831,La Concordia,Chiapas,More than 75%,86.7,5,42203,4
+814,Copainala,Chiapas,More than 75%,80.7,2,19587,1
+830,Chalchihuitan,Chiapas,More than 75%,99.4,,16999,
+829,Chamula,Chiapas,More than 75%,96.8,1,88356,1
+813,Chapultenango,Chiapas,More than 75%,93.2,1,7734,1
+827,Chenalho,Chiapas,More than 75%,99.1,2,40110,0
+795,Chiapa de Corzo,Chiapas,More than 50%,63.3,128,125567,30
+826,Chiapilla,Chiapas,More than 75%,92,5,5967,2
+825,Chicoasen,Chiapas,More than 75%,83.2,2,5057,0
+824,Chicomuselo,Chiapas,More than 75%,85.1,4,33063,1
+823,Chilon,Chiapas,More than 75%,98.6,3,129377,0
+799,Escuintla,Chiapas,More than 75%,80.3,6,32181,1
+822,Frontera Comalapa,Chiapas,More than 75%,82.4,29,71703,3
+821,Frontera Hidalgo,Chiapas,More than 50%,71.3,4,20353,1
+903,La Grandeza,Chiapas,More than 75%,92.4,1,7137,1
+820,Huehuetan,Chiapas,More than 50%,65.3,29,49044,6
+819,Huixtan,Chiapas,More than 75%,93.5,2,14635,1
+817,Huixtla,Chiapas,More than 50%,73.2,86,52110,19
+797,La Independencia,Chiapas,More than 75%,91.8,6,32747,1
+816,Ixhuatan,Chiapas,More than 75%,89.5,4,8493,0
+811,Ixtacomitan,Chiapas,More than 75%,78.6,7,10738,1
+898,Ixtapa,Chiapas,More than 75%,89.5,3,17580,1
+897,Ixtapangajoya,Chiapas,More than 50%,74.9,6,5447,4
+901,Jiquipilas,Chiapas,More than 75%,76.7,6,43475,5
+896,Jitotol,Chiapas,More than 75%,96.1,5,20839,1
+810,Juarez,Chiapas,More than 50%,60.2,19,30661,6
+800,La Libertad,Chiapas,More than 50%,63.8,1,4966,0
+894,Mapastepec,Chiapas,More than 50%,74.3,23,60433,5
+893,Las Margaritas,Chiapas,More than 75%,91.6,16,76741,1
+892,Mazapa de Madero,Chiapas,More than 75%,88.5,3,7855,0
+891,Mazatan,Chiapas,More than 75%,75.2,9,37882,2
+790,Metapa,Chiapas,More than 75%,75.5,4,5797,2
+889,Motozintla,Chiapas,More than 75%,86.3,42,42817,10
+888,Nicolas Ruiz,Chiapas,More than 75%,99.4,4,4311,1
+792,Ocosingo,Chiapas,More than 75%,88.1,60,149833,17
+809,Ocotepec,Chiapas,More than 75%,95.9,1,7086,0
+808,Ocozocoautla de Espinosa,Chiapas,More than 75%,78.4,73,84432,14
+807,Ostuacan,Chiapas,More than 50%,68.2,8,26801,0
+887,Osumacinta,Chiapas,More than 75%,78.9,1,3724,0
+886,Oxchuc,Chiapas,More than 75%,97.7,1,27538,0
+885,Palenque,Chiapas,More than 75%,78.7,89,126000,9
+884,Pantelho,Chiapas,More than 75%,99,,22264,
+882,Pichucalco,Chiapas,More than 50%,65.9,62,40936,0
+881,Pijijiapan,Chiapas,More than 50%,72,22,74507,1
+880,El Porvenir,Chiapas,More than 75%,96,1,5831,0
+879,Villa Comaltitlan,Chiapas,More than 50%,67.9,5,43792,0
+878,Pueblo Nuevo Solistahuacan,Chiapas,More than 75%,91,2,19233,0
+877,Rayon,Chiapas,More than 75%,92.9,1,9689,0
+806,Reforma,Chiapas,More than 50%,55.8,69,56114,7
+876,Las Rosas,Chiapas,More than 75%,88.4,3,23878,1
+875,Sabanilla,Chiapas,More than 75%,98.8,7,27236,1
+874,Salto de Agua,Chiapas,More than 75%,91.5,9,43409,2
+905,San Cristobal de las Casas,Chiapas,More than 50%,64.9,269,206839,29
+805,San Fernando,Chiapas,More than 50%,70.2,17,43486,2
+872,Simojovel,Chiapas,More than 75%,96.3,15,44776,4
+871,Sitala,Chiapas,More than 75%,98.2,,13998,
+870,Socoltenango,Chiapas,More than 75%,79.8,8,21222,0
+869,Solosuchiapa,Chiapas,More than 75%,87.2,2,8176,0
+900,Soyalo,Chiapas,More than 75%,90.3,5,7352,2
+868,Suchiapa,Chiapas,More than 50%,72.9,16,26389,4
+867,Suchiate,Chiapas,More than 50%,69.8,14,53113,6
+804,Sunuapa,Chiapas,More than 75%,76.9,,2310,
+793,Tapachula,Chiapas,More than 50%,60.5,739,403754,135
+803,Tapalapa,Chiapas,More than 75%,90,,3883,
+866,Tapilula,Chiapas,More than 50%,74.2,3,13755,0
+802,Tecpatan,Chiapas,More than 75%,83.7,13,40398,6
+864,Teopisca,Chiapas,More than 75%,90.5,6,32020,0
+899,Tila,Chiapas,More than 75%,98,13,78446,4
+801,Tonala,Chiapas,More than 50%,72.3,94,112791,16
+863,Totolapa,Chiapas,More than 75%,97.7,1,7370,0
+788,La Trinitaria,Chiapas,More than 75%,87.6,7,63643,2
+862,Tumbala,Chiapas,More than 75%,98.1,10,34701,1
+794,Tuxtla Gutierrez,Chiapas,More than 25%,48,1954,701522,274
+789,Tuxtla Chico,Chiapas,More than 50%,64.9,28,58597,4
+861,Tuzantan,Chiapas,More than 75%,81,9,33305,5
+860,Tzimol,Chiapas,More than 75%,84.6,6,13521,2
+859,Union Juarez,Chiapas,More than 75%,83.5,5,11371,0
+858,Venustiano Carranza,Chiapas,More than 75%,86.2,66,53913,11
+857,Villa Corzo,Chiapas,More than 75%,84.1,15,77515,3
+856,Villaflores,Chiapas,More than 50%,74.9,36,118526,4
+855,Yajalon,Chiapas,More than 75%,80.1,22,29595,1
+854,San Lucas,Chiapas,More than 75%,97.9,1,7287,0
+853,Zinacantan,Chiapas,More than 75%,98.4,2,41594,1
+852,San Juan Cancuc,Chiapas,More than 75%,99.6,,35238,
+850,Benemerito de las Americas,Chiapas,More than 75%,88.3,13,16588,4
+849,Marques de Comillas,Chiapas,More than 75%,82.4,2,12939,1
+848,Montecristo de Guerrero,Chiapas,More than 75%,96.7,,7761,
+847,San Andres Duraznal,Chiapas,More than 75%,99.7,,5224,
+846,Santiago el Pinar,Chiapas,More than 75%,99,,3727,
+690,Ahumada,Chihuahua,More than 50%,50.2,4,14296,1
+686,Aldama,Chihuahua,More than 25%,45,2,26924,1
+694,Allende,Chihuahua,More than 25%,48.4,4,9165,0
+669,Ascension,Chihuahua,More than 50%,61.8,3,27333,3
+662,Bachiniva,Chihuahua,More than 25%,39.6,5,6444,2
+703,Bocoyna,Chihuahua,More than 50%,63.9,6,23479,2
+695,Camargo,Chihuahua,More than 50%,51.9,4,56004,4
+666,Casas Grandes,Chihuahua,More than 25%,48.7,2,12605,1
+706,Coronado,Chihuahua,More than 50%,54.8,1,2195,1
+708,La Cruz,Chihuahua,More than 25%,43.1,,4043,
+691,Cuauhtemoc,Chihuahua,More than 25%,45,44,188437,10
+663,Chihuahua,Chihuahua,More than 25%,31.2,709,947503,184
+671,Chinipas,Chihuahua,More than 75%,86.7,,7851,
+688,Delicias,Chihuahua,More than 25%,42.6,103,160093,16
+710,Dr. Belisario Dominguez,Chihuahua,More than 50%,66.8,,2609,
+672,Galeana,Chihuahua,More than 25%,41.6,1,6305,0
+670,Gomez Farias,Chihuahua,More than 50%,57.3,1,9327,1
+713,Guachochi,Chihuahua,More than 50%,70.2,16,32661,5
+673,Guadalupe,Chihuahua,More than 50%,53.4,2,5519,2
+683,Guadalupe y Calvo,Chihuahua,More than 75%,88.1,5,40012,2
+714,Guerrero,Chihuahua,More than 50%,59.2,1,39916,0
+693,Hidalgo del Parral,Chihuahua,More than 25%,46.2,82,117493,16
+715,Huejotitan,Chihuahua,More than 75%,80.3,,997,
+716,Ignacio Zaragoza,Chihuahua,More than 50%,62.9,2,7230,1
+675,Janos,Chihuahua,More than 25%,46.9,1,13269,0
+696,Jimenez,Chihuahua,More than 50%,53,11,47099,5
+665,Juarez,Chihuahua,More than 25%,39.9,1976,1502327,765
+697,Julimes,Chihuahua,More than 25%,38.8,1,4659,1
+717,Lopez,Chihuahua,More than 25%,47.3,1,4195,0
+676,Madera,Chihuahua,More than 50%,59.4,3,29848,4
+678,Matachi,Chihuahua,More than 25%,48,,3101,
+718,Matamoros,Chihuahua,More than 50%,60.8,,4578,
+689,Meoqui,Chihuahua,More than 25%,48.5,34,48595,12
+684,Morelos,Chihuahua,More than 75%,91.3,1,8159,1
+685,Moris,Chihuahua,More than 75%,81.1,1,5384,1
+719,Namiquipa,Chihuahua,More than 50%,55.4,18,26711,2
+720,Nonoava,Chihuahua,More than 50%,66.8,,2696,
+667,Nuevo Casas Grandes,Chihuahua,More than 25%,45.9,31,68966,5
+698,Ojinaga,Chihuahua,More than 25%,48.4,14,32179,4
+668,Praxedis G. Guerrero,Chihuahua,More than 25%,40.1,1,5744,1
+687,Rosales,Chihuahua,More than 25%,41.5,3,18873,5
+721,Rosario,Chihuahua,More than 75%,80.8,,2113,
+722,San Francisco de Borja,Chihuahua,More than 50%,56.9,,2237,
+723,San Francisco de Conchos,Chihuahua,More than 25%,37.8,,2587,
+724,San Francisco del Oro,Chihuahua,More than 25%,46.8,2,5327,3
+725,Santa Barbara,Chihuahua,More than 25%,39.6,3,11529,0
+726,Satevo,Chihuahua,More than 50%,56.5,,3308,
+699,Saucillo,Chihuahua,More than 25%,42.9,8,34370,3
+728,Valle de Zaragoza,Chihuahua,More than 50%,53.2,1,5445,1
+4,Azcapotzalco,Mexico City,More than 25%,30.4,2771,400254,494
+12,Coyoacan,Mexico City,More than 25%,27.4,3065,572991,393
+9,Cuajimalpa de Morelos,Mexico City,More than 25%,36.5,1045,185835,107
+8,Gustavo A. Madero,Mexico City,More than 25%,39.9,6167,1215014,1365
+11,Iztacalco,Mexico City,Less than 25%,22.9,2555,358195,448
+15,Iztapalapa,Mexico City,More than 25%,43.7,8331,1903552,1538
+3,La Magdalena Contreras,Mexico City,More than 25%,43.5,1287,263139,134
+16,Milpa Alta,Mexico City,More than 50%,55.5,1536,156147,66
+7,Alvaro Obregon,Mexico City,More than 25%,36.3,3395,748509,569
+14,Tlahuac,Mexico City,More than 50%,51.5,2429,395414,190
+1,Tlalpan,Mexico City,More than 25%,40.2,3768,677137,374
+2,Xochimilco,Mexico City,More than 50%,50.4,3217,462380,271
+5,Benito Juarez,Mexico City,Less than 25%,7.2,1699,330457,257
+6,Cuauhtemoc,Mexico City,Less than 25%,21.4,2892,465420,502
+10,Miguel Hidalgo,Mexico City,Less than 25%,10,1938,287260,256
+13,Venustiano Carranza,Mexico City,More than 25%,32.3,2466,424655,417
+633,Canatlan,Durango,More than 50%,58.1,4,26828,3
+634,Canelas,Durango,More than 75%,77.1,,4723,
+636,Cuencame,Durango,More than 50%,52.8,4,36494,1
+637,Durango,Durango,More than 25%,42.4,811,702752,86
+658,General Simon Bolivar,Durango,More than 50%,58.6,3,9457,1
+624,Gomez Palacio,Durango,More than 25%,45.1,789,359275,68
+638,Guadalupe Victoria,Durango,More than 50%,57.6,21,30486,4
+639,Hidalgo,Durango,More than 75%,75.9,1,3871,0
+640,Inde,Durango,More than 50%,73.1,1,4970,0
+659,Lerdo,Durango,More than 50%,50,174,153933,9
+641,Mapimi,Durango,More than 25%,49,20,32198,1
+642,Mezquital,Durango,More than 75%,89.4,11,39620,1
+643,Nazas,Durango,More than 50%,61.6,3,11317,1
+644,Nombre de Dios,Durango,More than 50%,57.2,3,17809,1
+660,Ocampo,Durango,More than 50%,60,3,9650,0
+645,El Oro,Durango,More than 50%,50.6,1,11128,1
+646,Otaez,Durango,More than 75%,91.6,1,5432,0
+647,Panuco de Coronado,Durango,More than 50%,59.2,10,10953,1
+648,Peñon Blanco,Durango,More than 50%,57.9,1,9158,0
+649,Poanas,Durango,More than 50%,56.1,13,23895,5
+650,Pueblo Nuevo,Durango,More than 50%,63.4,14,40445,3
+652,San Bernardo,Durango,More than 50%,71.6,2,3230,0
+653,San Dimas,Durango,More than 50%,53.8,2,18987,0
+654,San Juan del Rio,Durango,More than 50%,59.7,3,10349,0
+657,Santiago Papasquiaro,Durango,More than 50%,52.7,11,46940,4
+625,Tamazula,Durango,More than 50%,71.8,23,10752,1
+787,Tlahualilo,Durango,More than 25%,49.8,68,25570,13
+626,Topia,Durango,More than 50%,69.5,1,9433,0
+627,Vicente Guerrero,Durango,More than 50%,60.7,2,18860,2
+628,Nuevo Ideal,Durango,More than 50%,55.1,1,23070,1
+1601,Abasolo,Guanajuato,More than 50%,59.2,36,87973,2
+1592,Acambaro,Guanajuato,More than 50%,62.7,110,105609,18
+1593,San Miguel de Allende,Guanajuato,More than 50%,52.2,75,168018,5
+1584,Apaseo el Alto,Guanajuato,More than 50%,58.2,39,65335,1
+1585,Apaseo el Grande,Guanajuato,More than 50%,51.3,57,91599,6
+1579,Atarjea,Guanajuato,More than 75%,83.4,2,5110,0
+1570,Celaya,Guanajuato,More than 25%,40.8,690,512009,75
+1595,Manuel Doblado,Guanajuato,More than 50%,58.2,10,37061,1
+1569,Comonfort,Guanajuato,More than 50%,64.7,35,74866,5
+1589,Coroneo,Guanajuato,More than 50%,63.3,25,11325,0
+1591,Cortazar,Guanajuato,More than 50%,54,153,95076,20
+1596,Cueramaro,Guanajuato,More than 50%,64.6,35,26221,0
+1574,Doctor Mora,Guanajuato,More than 50%,52.2,16,24051,2
+1614,Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,More than 50%,60.3,84,146574,6
+1609,Guanajuato,Guanajuato,More than 25%,46.2,120,184277,13
+1602,Huanimaro,Guanajuato,More than 50%,61,7,20791,0
+1607,Irapuato,Guanajuato,More than 25%,49.6,705,579821,58
+1611,Jaral del Progreso,Guanajuato,More than 50%,65.2,22,36238,2
+1587,Jeracuaro,Guanajuato,More than 75%,76.6,36,40121,1
+1610,Leon,Guanajuato,More than 25%,40.3,3782,1659125,219
+1613,Moroleon,Guanajuato,More than 50%,59.8,30,48332,5
+1612,Ocampo,Guanajuato,More than 50%,69.4,11,20722,2
+1599,Penjamo,Guanajuato,More than 50%,62.3,103,141186,5
+1582,Pueblo Nuevo,Guanajuato,More than 50%,57,15,12068,0
+1571,Purisima del Rincon,Guanajuato,More than 25%,44.9,15,85203,5
+1608,Romita,Guanajuato,More than 50%,56,131,59029,4
+1606,Salamanca,Guanajuato,More than 25%,49.7,286,273479,23
+1580,Salvatierra,Guanajuato,More than 50%,67.6,102,89381,7
+1603,San Diego de la Union,Guanajuato,More than 50%,67.9,32,34346,2
+1572,San Felipe,Guanajuato,More than 50%,70.8,33,99860,3
+1594,San Francisco del Rincon,Guanajuato,More than 25%,42.8,84,127528,2
+1581,San Jose Iturbide,Guanajuato,More than 25%,46.3,48,79948,1
+1598,San Luis de la Paz,Guanajuato,More than 50%,57.9,97,117722,12
+1575,Santa Catarina,Guanajuato,More than 50%,66.1,6,5242,0
+1605,Santa Cruz de Juventino Rosas,Guanajuato,More than 50%,71.7,127,73579,16
+1583,Santiago Maravatio,Guanajuato,More than 75%,77.3,29,6802,0
+1600,Silao,Guanajuato,More than 50%,53,319,188658,23
+1590,Tarandacuao,Guanajuato,More than 50%,68.1,11,11372,1
+1588,Tarimoro,Guanajuato,More than 50%,59.8,24,31763,4
+1576,Tierra Blanca,Guanajuato,More than 50%,57.6,12,17746,0
+1577,Uriangato,Guanajuato,More than 50%,63.3,35,58410,2
+1597,Valle de Santiago,Guanajuato,More than 50%,63.4,65,131345,3
+1578,Victoria,Guanajuato,More than 50%,57.7,4,18502,0
+1604,Villagran,Guanajuato,More than 50%,57.4,56,59567,2
+1573,Xichu,Guanajuato,More than 75%,81.6,5,8856,0
+1586,Yuriria,Guanajuato,More than 50%,66.5,25,59330,1
+97,Acapulco de Juarez,Guerrero,More than 50%,62.3,3186,771454,669
+74,Ahuacuotzingo,Guerrero,More than 75%,89.3,6,22639,1
+76,Ajuchitlan del Progreso,Guerrero,More than 75%,84.6,35,35521,4
+71,Alcozauca de Guerrero,Guerrero,More than 75%,96.3,5,19602,2
+39,Alpoyeca,Guerrero,More than 50%,73.3,1,6718,1
+17,Apaxtla,Guerrero,More than 50%,74.8,3,11929,1
+77,Arcelia,Guerrero,More than 50%,67.9,61,29752,5
+40,Atenango del Rio,Guerrero,More than 75%,81,2,8827,1
+41,Atlamajalcingo del Monte,Guerrero,More than 75%,96.5,1,5543,2
+42,Atlixtac,Guerrero,More than 75%,96.6,1,27541,1
+78,Atoyac de Alvarez,Guerrero,More than 50%,64.4,49,66521,12
+43,Ayutla de los Libres,Guerrero,More than 75%,81.2,43,67941,14
+79,Benito Juarez,Guerrero,More than 25%,49.2,10,21327,0
+94,Buenavista de Cuellar,Guerrero,More than 50%,57.2,12,14364,4
+80,Coahuayutla de Jose Maria Izazaga,Guerrero,More than 75%,79.3,1,12874,2
+18,Cocula,Guerrero,More than 50%,56.7,5,17525,5
+45,Copala,Guerrero,More than 50%,70.6,2,14475,1
+46,Copalillo,Guerrero,More than 75%,94.8,7,15047,1
+47,Copanatoyac,Guerrero,More than 75%,94.5,1,20436,0
+38,Coyuca de Benitez,Guerrero,More than 50%,55.8,37,104187,12
+86,Coyuca de Catalan,Guerrero,More than 75%,77.3,53,36492,8
+68,Cuajinicuilapa,Guerrero,More than 50%,67.9,1,27574,1
+48,Cualac,Guerrero,More than 75%,83.9,,7739,
+49,Cuautepec,Guerrero,More than 75%,84.1,5,16610,1
+19,Cuetzala del Progreso,Guerrero,More than 75%,83,1,8657,1
+81,Cutzamala de Pinzon,Guerrero,More than 50%,67.4,24,23625,5
+20,Chilapa de Alvarez,Guerrero,More than 75%,84.9,66,112906,18
+21,Chilpancingo de los Bravo,Guerrero,More than 50%,57.1,626,258499,122
+50,Florencio Villarreal,Guerrero,More than 50%,72.9,12,21099,0
+22,General Canuto A. Neri,Guerrero,More than 75%,84.2,1,5850,0
+23,General Heliodoro Castillo,Guerrero,More than 75%,91.7,1,26929,3
+51,Huamuxtitlan,Guerrero,More than 50%,61.7,7,19097,5
+24,Huitzuco de los Figueroa,Guerrero,More than 50%,67.2,18,42569,10
+37,Iguala de la Independencia,Guerrero,More than 50%,56.4,218,155028,112
+52,Igualapa,Guerrero,More than 75%,85.7,4,11518,3
+89,Ixcateopan de Cuauhtemoc,Guerrero,More than 75%,85.1,1,6251,0
+96,Zihuatanejo de Azueta,Guerrero,More than 50%,52.9,130,125227,36
+25,Juan R. Escudero,Guerrero,More than 75%,76.5,61,23958,2
+26,Leonardo Bravo,Guerrero,More than 75%,87,4,21425,2
+53,Malinaltepec,Guerrero,More than 75%,92.5,1,25891,1
+27,Martir de Cuilapan,Guerrero,More than 75%,84.8,8,17196,3
+72,Metlatanoc,Guerrero,More than 75%,98.5,3,19691,0
+28,Mochitlan,Guerrero,More than 50%,73.4,5,12987,1
+54,Olinala,Guerrero,More than 75%,86.1,3,22687,1
+55,Ometepec,Guerrero,More than 50%,70.1,72,78919,9
+90,Pedro Ascencio Alquisiras,Guerrero,More than 75%,93.9,2,6956,2
+75,Petatlan,Guerrero,More than 50%,62.6,19,46859,5
+91,Pilcaya,Guerrero,More than 50%,57.4,3,14895,1
+95,Pungarabato,Guerrero,More than 50%,60.1,162,41236,16
+29,Quechultenango,Guerrero,More than 75%,87,4,29228,1
+56,San Luis Acatlan,Guerrero,More than 75%,89.3,1,36511,2
+30,San Marcos,Guerrero,More than 50%,57.8,23,78462,5
+93,Taxco de Alarcon,Guerrero,More than 50%,71.1,93,108365,47
+31,Tecoanapa,Guerrero,More than 75%,76.7,8,50666,3
+83,Tecpan de Galeana,Guerrero,More than 50%,58.4,18,77231,3
+32,Teloloapan,Guerrero,More than 50%,74.5,12,64396,1
+33,Tepecoacuilco de Trujano,Guerrero,More than 50%,57.1,20,46281,8
+92,Tetipac,Guerrero,More than 50%,71,2,19767,1
+34,Tixtla de Guerrero,Guerrero,More than 50%,69.6,81,41347,7
+69,Tlacoachistlahuaca,Guerrero,More than 75%,91.9,2,23027,2
+57,Tlacoapa,Guerrero,More than 75%,90.8,1,9871,0
+84,Tlalchapa,Guerrero,More than 50%,67.4,7,13117,2
+70,Tlalixtaquilla de Maldonado,Guerrero,More than 75%,78,1,7491,1
+58,Tlapa de Comonfort,Guerrero,More than 50%,74.2,124,86334,31
+85,Tlapehuala,Guerrero,More than 50%,57.9,42,25344,3
+88,La Union de Isidoro Montes de Oca,Guerrero,More than 50%,60.6,37,34894,2
+59,Xalpatlahuac,Guerrero,More than 75%,94.8,1,11869,1
+60,Xochihuehuetlan,Guerrero,More than 75%,81.1,13,7284,6
+61,Xochistlahuaca,Guerrero,More than 75%,91.5,2,29172,1
+62,Zapotitlan Tablas,Guerrero,More than 75%,93.3,1,11356,1
+87,Zirandaro,Guerrero,More than 75%,79.9,27,15520,0
+35,Zitlala,Guerrero,More than 75%,88.6,7,18934,0
+36,Eduardo Neri,Guerrero,More than 50%,73.7,54,47196,21
+63,Acatepec,Guerrero,More than 75%,97.6,2,36889,0
+64,Marquelia,Guerrero,More than 50%,72.9,5,13884,2
+73,Cochoapa el Grande,Guerrero,More than 75%,99.4,1,18681,0
+65,Jose Joaquin de Herrera,Guerrero,More than 75%,94.2,3,17876,1
+2109,Acatlan,Hidalgo,More than 50%,60.9,20,22180,4
+2110,Acaxochitlan,Hidalgo,More than 75%,75.8,19,41597,11
+2111,Actopan,Hidalgo,More than 50%,59.7,65,54395,17
+2112,Agua Blanca de Iturbide,Hidalgo,More than 50%,70.2,2,9211,0
+2189,Ajacuba,Hidalgo,More than 50%,53.3,13,18877,3
+2113,Alfajayucan,Hidalgo,More than 50%,62.7,5,21687,0
+2107,Almoloya,Hidalgo,More than 50%,63.6,11,11908,2
+2108,Apan,Hidalgo,More than 50%,56.8,159,43138,21
+2181,El Arenal,Hidalgo,More than 25%,46.1,16,21364,5
+2178,Atitalaquia,Hidalgo,More than 25%,42.8,59,30874,13
+2114,Atlapexco,Hidalgo,More than 75%,78.6,4,17957,0
+2115,Atotonilco el Grande,Hidalgo,More than 50%,64.9,25,27193,4
+2179,Atotonilco de Tula,Hidalgo,More than 25%,34.9,62,42448,19
+2116,Calnali,Hidalgo,More than 75%,75.5,13,15564,1
+2117,Cardonal,Hidalgo,More than 50%,65.2,9,18358,4
+2118,Cuautepec de Hinojosa,Hidalgo,More than 50%,63.8,41,56649,11
+2175,Chapantongo,Hidalgo,More than 50%,56.2,5,15388,2
+2119,Chapulhuacan,Hidalgo,More than 75%,80.8,5,20820,2
+2182,Chilcuautla,Hidalgo,More than 50%,58.9,9,19373,3
+2159,Emiliano Zapata,Hidalgo,More than 25%,49.1,45,14938,10
+2120,Epazoyucan,Hidalgo,More than 25%,40.4,22,16399,7
+2183,Francisco I. Madero,Hidalgo,More than 50%,57.3,20,34344,8
+2121,Huasca de Ocampo,Hidalgo,More than 50%,54,8,19298,4
+2122,Huautla,Hidalgo,More than 75%,79.6,5,19167,2
+2123,Huazalingo,Hidalgo,More than 75%,84.5,1,12534,0
+2124,Huehuetla,Hidalgo,More than 75%,79.7,7,24150,2
+2125,Huejutla de Reyes,Hidalgo,More than 50%,66.2,178,123763,27
+2163,Huichapan,Hidalgo,More than 25%,41.3,33,53554,10
+2126,Ixmiquilpan,Hidalgo,More than 50%,58.8,45,94569,16
+2127,Jacala de Ledezma,Hidalgo,More than 50%,73.5,1,11825,0
+2128,Jaltocan,Hidalgo,More than 75%,76.4,15,10854,1
+2129,Juarez Hidalgo,Hidalgo,More than 75%,77.8,1,3141,1
+2130,Lolotla,Hidalgo,More than 50%,74,1,9561,2
+2106,Metepec,Hidalgo,More than 50%,57.6,8,12474,2
+2131,San Agustin Metzquititlan,Hidalgo,More than 50%,58.6,3,9540,2
+2162,Metztitlan,Hidalgo,More than 50%,67.3,7,19687,3
+2132,Mineral del Chico,Hidalgo,More than 50%,53.7,7,9125,0
+2133,Mineral del Monte,Hidalgo,More than 50%,51.1,22,14960,5
+2170,Mixquiahuala de Juarez,Hidalgo,More than 25%,49.3,42,48582,11
+2135,Molango de Escamilla,Hidalgo,More than 50%,65.4,2,10939,0
+2174,Nopala de Villagran,Hidalgo,More than 25%,49.2,2,19261,0
+2137,Omitlan de Juarez,Hidalgo,More than 50%,60.5,6,9741,0
+2138,San Felipe Orizatlan,Hidalgo,More than 75%,79.7,13,34746,3
+2184,Pachuca de Soto,Hidalgo,More than 25%,37.6,922,292931,159
+2140,Pisaflores,Hidalgo,More than 75%,80.1,3,15472,2
+2185,Progreso de Obregon,Hidalgo,More than 50%,52.1,24,23719,5
+2141,Mineral de la Reforma,Hidalgo,More than 25%,27.8,326,167056,30
+2168,San Agustin Tlaxiaca,Hidalgo,More than 50%,51.8,69,37936,17
+2142,San Bartolo Tutotepec,Hidalgo,More than 75%,79,2,16311,2
+2186,San Salvador,Hidalgo,More than 50%,58.4,28,36474,8
+2143,Santiago de Anaya,Hidalgo,More than 25%,37.5,12,21891,2
+2144,Santiago Tulantepec de Lugo Guerrero,Hidalgo,More than 50%,51.8,30,38161,10
+2145,Singuilucan,Hidalgo,More than 50%,63.5,17,16192,5
+2146,Tasquillo,Hidalgo,More than 50%,71.3,2,15288,1
+2160,Tecozautla,Hidalgo,More than 50%,65.1,15,38869,4
+2147,Tenango de Doria,Hidalgo,More than 50%,73.6,7,16927,1
+2164,Tepeapulco,Hidalgo,More than 25%,49.1,170,53206,31
+2148,Tepehuacan de Guerrero,Hidalgo,More than 75%,83.7,1,26890,0
+2176,Tepeji del Rio de Ocampo,Hidalgo,More than 25%,43.6,148,91470,30
+2180,Tepetitlan,Hidalgo,More than 25%,45.6,5,12340,1
+2188,Tetepango,Hidalgo,More than 50%,63.5,15,10960,3
+2169,Villa de Tezontepec,Hidalgo,More than 50%,56.3,22,12798,7
+2171,Tezontepec de Aldama,Hidalgo,More than 50%,64.6,69,51097,23
+2149,Tianguistengo,Hidalgo,More than 75%,77.3,1,13582,0
+2166,Tizayuca,Hidalgo,More than 25%,45.5,382,121366,74
+2172,Tlahuelilpan,Hidalgo,More than 50%,61.2,25,18531,7
+2158,Tlanalapa,Hidalgo,More than 25%,46.7,21,10209,5
+2151,Tlanchinol,Hidalgo,More than 75%,84.7,4,34118,1
+2173,Tlaxcoapan,Hidalgo,More than 50%,64.4,48,26575,12
+2167,Tolcayuca,Hidalgo,More than 50%,55,72,16412,13
+2177,Tula de Allende,Hidalgo,More than 25%,32.6,173,123464,43
+2152,Tulancingo de Bravo,Hidalgo,More than 50%,57.1,178,158189,39
+2153,Xochiatipan,Hidalgo,More than 75%,92,13,19968,4
+2155,Yahualica,Hidalgo,More than 75%,87.9,3,20739,0
+2156,Zacualtipan de Angeles,Hidalgo,More than 50%,60.3,6,34090,2
+2187,Zapotlan de Juarez,Hidalgo,More than 50%,64,43,17800,8
+2165,Zempoala,Hidalgo,More than 25%,43.1,77,49205,13
+2157,Zimapan,Hidalgo,More than 50%,56.9,8,41401,2
+464,Acatic,Jalisco,More than 25%,42.2,7,20311,2
+426,Acatlan de Juarez,Jalisco,More than 50%,50.6,7,23589,3
+414,Ahualulco de Mercado,Jalisco,More than 25%,46.9,8,19727,3
+432,Amacueca,Jalisco,More than 50%,65.3,6,5453,0
+440,Amatitan,Jalisco,More than 25%,48.4,3,15640,1
+424,Ameca,Jalisco,More than 25%,46.6,17,57661,4
+410,San Juanito de Escobedo,Jalisco,More than 50%,63.2,4,9559,2
+434,Arandas,Jalisco,More than 25%,47.7,10,79733,3
+439,El Arenal,Jalisco,More than 25%,35,6,21060,0
+479,Atemajac de Brizuela,Jalisco,More than 75%,79.9,27,6815,0
+482,Atenguillo,Jalisco,More than 25%,29.1,2,3957,2
+423,Atotonilco el Alto,Jalisco,More than 25%,49.1,30,58024,2
+456,Atoyac,Jalisco,More than 50%,73.8,1,8386,0
+495,Autlan de Navarro,Jalisco,More than 25%,46.3,45,62966,8
+430,Ayotlan,Jalisco,More than 50%,60.7,8,32726,1
+474,Ayutla,Jalisco,More than 50%,58.1,8,10662,2
+478,La Barca,Jalisco,More than 50%,50.8,62,54601,16
+477,Cabo Corrientes,Jalisco,More than 50%,50.4,3,12304,0
+506,Casimiro Castillo,Jalisco,More than 50%,56,2,22691,0
+500,Cihuatlan,Jalisco,More than 50%,58.2,29,45794,7
+497,Zapotlan el Grande,Jalisco,More than 25%,49.6,145,101942,10
+480,Cocula,Jalisco,More than 50%,50.6,23,23989,4
+393,Colotlan,Jalisco,More than 50%,53.7,35,14499,3
+485,Cuautla,Jalisco,More than 25%,35.8,10,2151,0
+409,Cuquio,Jalisco,More than 50%,58.1,5,16431,0
+488,Chapala,Jalisco,More than 25%,49.6,22,50742,3
+397,Chimaltitan,Jalisco,More than 50%,71.8,1,3433,1
+471,Chiquilistlan,Jalisco,More than 75%,80.9,4,6191,0
+428,Degollado,Jalisco,More than 25%,48.1,9,23088,2
+444,Encarnacion de Diaz,Jalisco,More than 50%,54,6,53848,2
+413,Etzatlan,Jalisco,More than 50%,59.3,1,16137,0
+460,El Grullo,Jalisco,More than 50%,53,8,24820,5
+417,Guachinango,Jalisco,More than 25%,45.6,1,4245,0
+419,Guadalajara,Jalisco,More than 25%,35.3,2302,1462611,516
+389,Huejucar,Jalisco,More than 50%,51.6,1,5716,1
+390,Huejuquilla el Alto,Jalisco,More than 50%,68.7,3,8915,1
+387,La Huerta,Jalisco,More than 25%,39.1,10,24017,1
+425,Ixtlahuacan de los Membrillos,Jalisco,More than 25%,36.2,14,53588,3
+404,Jalostotitlan,Jalisco,More than 25%,47.4,8,35653,1
+492,Jamay,Jalisco,More than 50%,58.7,9,24513,1
+418,Jesus Maria,Jalisco,More than 25%,49,7,18188,2
+509,Jilotlan de los Dolores,Jalisco,More than 50%,50.6,2,10059,0
+489,Jocotepec,Jalisco,More than 50%,56.4,28,46777,5
+463,Juanacatlan,Jalisco,More than 25%,31.5,18,16632,2
+446,Lagos de Moreno,Jalisco,More than 25%,47.3,64,170411,8
+411,Magdalena,Jalisco,More than 50%,53.6,2,22966,1
+486,Mascota,Jalisco,More than 25%,48.9,8,13759,0
+394,Mezquitic,Jalisco,More than 75%,85.5,3,19738,0
+491,Ocotlan,Jalisco,More than 25%,49,99,97016,24
+499,Pihuamo,Jalisco,More than 50%,54.7,6,12345,1
+490,Poncitlan,Jalisco,More than 50%,54.4,36,48935,4
+386,Puerto Vallarta,Jalisco,More than 25%,33.7,546,303471,85
+453,Villa Purificacion,Jalisco,More than 50%,60.4,2,10593,1
+498,Quitupan,Jalisco,More than 25%,45.4,1,8499,0
+438,El Salto,Jalisco,More than 50%,51.3,133,202233,23
+403,San Cristobal de la Barranca,Jalisco,More than 25%,49.2,1,3163,0
+445,San Juan de los Lagos,Jalisco,More than 50%,54.6,108,63775,9
+402,San Julian,Jalisco,More than 25%,46.2,6,14340,2
+429,San Martin Hidalgo,Jalisco,More than 25%,45.5,9,26192,2
+420,San Miguel el Alto,Jalisco,More than 25%,45.9,12,33006,3
+458,Gomez Farias,Jalisco,More than 50%,63.2,6,14348,1
+416,San Sebastian del Oeste,Jalisco,More than 50%,58,1,5724,1
+388,Santa Maria de los Angeles,Jalisco,More than 50%,50.7,3,3078,1
+449,Sayula,Jalisco,More than 50%,56.8,11,38352,3
+436,Tala,Jalisco,More than 50%,50,46,80947,10
+487,Talpa de Allende,Jalisco,More than 50%,66.6,8,11941,0
+508,Tamazula de Gordiano,Jalisco,More than 25%,42.8,4,39948,1
+451,Tapalpa,Jalisco,More than 50%,64.6,1,18581,0
+504,Tecalitlan,Jalisco,More than 50%,62.3,2,15778,0
+473,Tecolotlan,Jalisco,More than 50%,55.3,7,16393,3
+441,Teocaltiche,Jalisco,More than 50%,52.8,1,40548,0
+470,Teocuitatlan de Corona,Jalisco,More than 50%,54,1,10668,0
+443,Tepatitlan de Morelos,Jalisco,More than 25%,43.4,75,140493,8
+412,Tequila,Jalisco,More than 50%,51.7,10,40704,2
+415,Teuchitlan,Jalisco,More than 25%,40.6,6,9750,4
+469,Tizapan el Alto,Jalisco,More than 50%,67.4,8,15206,0
+466,Tlajomulco de Zuñiga,Jalisco,More than 25%,43.6,394,603645,60
+461,Tlaquepaque,Jalisco,More than 25%,47.5,573,683310,100
+510,Toliman,Jalisco,More than 50%,60.4,3,11269,1
+475,Tomatlan,Jalisco,More than 50%,52.6,12,42321,5
+462,Tonala,Jalisco,More than 25%,47.7,415,545649,59
+450,Tonaya,Jalisco,More than 25%,47.6,2,6042,0
+502,Tonila,Jalisco,More than 50%,59.9,1,8034,2
+392,Totatiche,Jalisco,More than 25%,46.7,3,4473,0
+421,Tototlan,Jalisco,More than 25%,46.6,12,20677,2
+496,Tuxcacuesco,Jalisco,More than 25%,38.1,5,4291,0
+472,Tuxcueca,Jalisco,More than 50%,55.4,4,6246,1
+503,Tuxpan,Jalisco,More than 50%,56.5,11,33945,1
+447,Union de San Antonio,Jalisco,More than 25%,40.4,2,20266,0
+459,Union de Tula,Jalisco,More than 50%,58.3,1,9727,0
+442,Valle de Guadalupe,Jalisco,More than 25%,48.4,1,7020,0
+493,San Gabriel,Jalisco,More than 25%,49.9,6,18214,0
+481,Villa Corona,Jalisco,More than 50%,55.8,15,15418,4
+406,Cañadas de Obregon,Jalisco,More than 50%,63.7,5,4170,0
+405,Yahualica de Gonzalez Gallo,Jalisco,More than 25%,47.5,5,20547,0
+483,Zacoalco de Torres,Jalisco,More than 50%,57.3,49,23314,4
+437,Zapopan,Jalisco,More than 25%,35.5,1117,1363433,128
+494,Zapotiltic,Jalisco,More than 50%,54.4,16,27859,3
+501,Zapotitlan de Vadillo,Jalisco,More than 50%,72.1,3,7119,1
+422,Zapotlan del Rey,Jalisco,More than 25%,48.8,6,18200,4
+465,Zapotlanejo,Jalisco,More than 25%,44,26,69216,1
+435,San Ignacio Cerro Gordo,Jalisco,More than 50%,52.1,1,16540,0
+222,Acambay,State of Mexico,More than 75%,75,73,62863,13
+221,Acolman,State of Mexico,More than 50%,67.9,230,171774,38
+220,Aculco,State of Mexico,More than 50%,63.6,17,46275,2
+104,Almoloya de Alquisiras,State of Mexico,More than 75%,75.2,9,14115,2
+219,Almoloya de Juarez,State of Mexico,More than 50%,66.2,174,179746,33
+218,Almoloya del Rio,State of Mexico,More than 50%,68.5,37,12107,4
+217,Amanalco,State of Mexico,More than 75%,77.4,42,23366,3
+216,Amatepec,State of Mexico,More than 75%,78.9,8,23595,0
+215,Amecameca,State of Mexico,More than 50%,70.6,114,55821,9
+214,Apaxco,State of Mexico,More than 50%,60,25,32521,5
+213,Atenco,State of Mexico,More than 50%,71.1,60,73210,13
+212,Atizapan,State of Mexico,More than 50%,60.9,152,11992,46
+211,Atizapan de Zaragoza,State of Mexico,More than 25%,45.8,933,504311,209
+210,Atlacomulco,State of Mexico,More than 50%,65.4,228,100540,35
+209,Atlautla,State of Mexico,More than 75%,79.4,37,34913,4
+208,Axapusco,State of Mexico,More than 50%,66.4,24,29734,5
+207,Ayapango,State of Mexico,More than 50%,50.5,11,10331,1
+206,Calimaya,State of Mexico,More than 50%,60.8,128,59435,24
+205,Capulhuac,State of Mexico,More than 50%,62.3,79,37936,15
+204,Coacalco de Berriozabal,State of Mexico,More than 25%,43.9,618,280456,121
+203,Coatepec Harinas,State of Mexico,More than 50%,65,15,36704,2
+202,Cocotitlan,State of Mexico,More than 50%,52,49,14286,5
+201,Coyotepec,State of Mexico,More than 50%,66.5,115,50231,21
+200,Cuautitlan,State of Mexico,More than 25%,44.6,685,149965,101
+199,Chalco,State of Mexico,More than 50%,67.9,1445,396622,278
+198,Chapa de Mota,State of Mexico,More than 50%,71.5,14,29109,2
+197,Chapultepec,State of Mexico,More than 50%,54.5,36,12579,8
+196,Chiautla,State of Mexico,More than 50%,59.6,35,29373,4
+195,Chicoloapan,State of Mexico,More than 50%,62,283,233816,49
+194,Chiconcuac,State of Mexico,More than 50%,70,29,27638,4
+193,Chimalhuacan,State of Mexico,More than 50%,71.4,1318,787224,289
+192,Donato Guerra,State of Mexico,More than 75%,84.1,16,32688,4
+191,Ecatepec de Morelos,State of Mexico,More than 50%,59.7,4072,1840902,910
+190,Ecatzingo,State of Mexico,More than 75%,80.3,10,9857,3
+189,Huehuetoca,State of Mexico,More than 50%,60,202,152268,31
+188,Hueypoxtla,State of Mexico,More than 50%,74.8,60,51533,11
+187,Huixquilucan,State of Mexico,More than 25%,37,616,213989,74
+186,Isidro Fabela,State of Mexico,More than 25%,45.8,15,9533,0
+185,Ixtapaluca,State of Mexico,More than 50%,65.5,1145,548055,266
+184,Ixtapan de la Sal,State of Mexico,More than 50%,66.6,28,36091,4
+183,Ixtapan del Oro,State of Mexico,More than 75%,89.9,3,7114,0
+182,Ixtlahuaca,State of Mexico,More than 75%,75.3,201,162880,79
+181,Xalatlaco,State of Mexico,More than 50%,66.4,59,30849,15
+102,Jaltenco,State of Mexico,More than 50%,66.2,35,33107,11
+180,Jilotepec,State of Mexico,More than 50%,62.8,86,85572,8
+179,Jilotzingo,State of Mexico,More than 50%,52.3,31,18154,4
+178,Jiquipilco,State of Mexico,More than 50%,68.6,47,72641,14
+177,Jocotitlan,State of Mexico,More than 50%,64.4,91,64914,13
+103,Joquicingo,State of Mexico,More than 75%,77.5,12,15311,6
+176,Juchitepec,State of Mexico,More than 75%,76.7,12,29543,3
+175,Lerma,State of Mexico,More than 50%,56.3,310,146884,69
+174,Malinalco,State of Mexico,More than 75%,80,13,27218,6
+173,Melchor Ocampo,State of Mexico,More than 50%,63.4,164,65801,20
+172,Metepec,State of Mexico,More than 25%,46.8,698,219270,124
+171,Mexicaltzingo,State of Mexico,More than 50%,55.9,46,12731,9
+106,Morelos,State of Mexico,More than 75%,81.8,21,29268,4
+170,Naucalpan de Juarez,State of Mexico,More than 50%,54,2489,877661,548
+169,Nezahualcoyotl,State of Mexico,More than 25%,49.9,3544,1018123,774
+168,Nextlalpan,State of Mexico,More than 50%,66.2,55,45150,6
+167,Nicolas Romero,State of Mexico,More than 50%,58,783,445761,164
+166,Nopaltepec,State of Mexico,More than 50%,59.1,12,9381,2
+165,Ocoyoacac,State of Mexico,More than 50%,57.8,129,69398,18
+164,Ocuilan,State of Mexico,More than 50%,70.9,30,32830,5
+163,El Oro,State of Mexico,More than 50%,65.5,81,34581,10
+101,Otumba,State of Mexico,More than 50%,66.7,65,37746,27
+162,Otzoloapan,State of Mexico,More than 75%,79.6,2,4055,1
+161,Otzolotepec,State of Mexico,More than 50%,67.8,93,87540,21
+160,Ozumba,State of Mexico,More than 75%,75.5,45,31453,5
+159,Papalotla,State of Mexico,More than 25%,49.5,8,4145,1
+158,La Paz,State of Mexico,More than 50%,63.8,571,313663,149
+157,Polotitlan,State of Mexico,More than 50%,53.9,4,12860,0
+156,Rayon,State of Mexico,More than 50%,56.8,46,14158,6
+155,San Antonio la Isla,State of Mexico,More than 50%,53.7,61,28713,12
+154,San Felipe del Progreso,State of Mexico,More than 75%,76.6,136,128034,22
+100,San Martin de las Piramides,State of Mexico,More than 50%,54.3,35,26033,1
+153,San Mateo Atenco,State of Mexico,More than 50%,59.1,198,80909,48
+152,San Simon de Guerrero,State of Mexico,More than 50%,66.8,5,6295,1
+151,Santo Tomas,State of Mexico,More than 50%,64,6,10142,0
+150,Soyaniquilpan de Juarez,State of Mexico,More than 50%,62.4,15,13454,7
+149,Sultepec,State of Mexico,More than 75%,78.8,4,23541,2
+148,Tecomac,State of Mexico,More than 50%,54.9,873,496907,180
+98,Tejupilco,State of Mexico,More than 50%,73.8,118,73420,7
+147,Temamatla,State of Mexico,More than 50%,52.5,58,13295,2
+146,Temascalapa,State of Mexico,More than 50%,67.7,46,43249,18
+145,Temascalcingo,State of Mexico,More than 75%,77.4,55,63415,12
+144,Temascaltepec,State of Mexico,More than 75%,79.5,8,27816,0
+143,Temoaya,State of Mexico,More than 50%,73.4,125,102525,22
+105,Tenancingo,State of Mexico,More than 50%,67,156,101695,13
+142,Tenango del Aire,State of Mexico,More than 50%,60.7,20,12930,4
+141,Tenango del Valle,State of Mexico,More than 50%,72.4,181,96113,19
+140,Teoloyucan,State of Mexico,More than 50%,67.5,128,77656,28
+139,Teotihuacan,State of Mexico,More than 50%,65.7,105,64682,30
+138,Tepetlaoxtoc,State of Mexico,More than 50%,62,22,32602,4
+137,Tepetlixpa,State of Mexico,More than 50%,74.7,26,21732,5
+136,Tepotzotlan,State of Mexico,More than 50%,53.5,104,97736,28
+135,Tequixquiac,State of Mexico,More than 50%,70,32,43226,8
+134,Texcaltitlan,State of Mexico,More than 75%,76.4,8,17232,1
+133,Texcalyacac,State of Mexico,More than 50%,73.1,11,5492,1
+132,Texcoco,State of Mexico,More than 50%,54.7,456,239885,86
+131,Tezoyuca,State of Mexico,More than 50%,72.5,75,47050,7
+130,Tianguistenco,State of Mexico,More than 50%,66.8,118,80887,24
+129,Timilpan,State of Mexico,More than 50%,52.3,16,12999,0
+128,Tlalmanalco,State of Mexico,More than 50%,58.6,131,50109,14
+99,Tlalnepantla de Baz,State of Mexico,More than 50%,50.3,2082,717436,372
+127,Tlatlaya,State of Mexico,More than 75%,78.4,2,31820,0
+126,Toluca,State of Mexico,More than 50%,59.3,2552,908605,435
+125,Tonatico,State of Mexico,More than 50%,60.1,9,12276,2
+124,Tultepec,State of Mexico,More than 50%,54.7,295,158821,53
+123,Tultitlan,State of Mexico,More than 50%,55.4,1033,571074,271
+122,Valle de Bravo,State of Mexico,More than 50%,65.9,144,66258,11
+121,Villa de Allende,State of Mexico,More than 75%,83.3,25,48454,3
+120,Villa del Carbon,State of Mexico,More than 50%,73.7,38,46647,3
+119,Villa Guerrero,State of Mexico,More than 50%,72.6,53,72391,7
+118,Villa Victoria,State of Mexico,More than 50%,72.3,53,95819,9
+117,Xonacatlan,State of Mexico,More than 50%,61.1,155,53687,35
+116,Zacazonapan,State of Mexico,More than 50%,68.4,4,4330,0
+115,Zacualpan,State of Mexico,More than 75%,77.5,2,13160,2
+114,Zinacantepec,State of Mexico,More than 50%,63.5,359,200865,77
+113,Zumpahuacan,State of Mexico,More than 75%,78.7,18,17731,2
+112,Zumpango,State of Mexico,More than 50%,58.4,434,211459,79
+111,Cuautitlan Izcalli,State of Mexico,More than 25%,43,776,509985,223
+110,Valle de Chalco Solidaridad,State of Mexico,More than 50%,71.2,512,452170,195
+109,Luvianos,State of Mexico,More than 75%,85.8,28,24639,4
+108,San Jose del Rincon,State of Mexico,More than 75%,76.4,43,84040,9
+107,Tonanitla,State of Mexico,More than 50%,55.6,20,10190,6
+523,Aguililla,Michoacan,More than 50%,73,5,13833,0
+585,Alvaro Obregon,Michoacan,More than 50%,73.4,21,20733,3
+608,Angamacutiro,Michoacan,More than 50%,74.3,2,13776,1
+560,Angangueo,Michoacan,More than 50%,72.3,14,10172,2
+529,Apatzingan,Michoacan,More than 50%,58,367,137714,38
+514,Aquila,Michoacan,More than 50%,71.8,12,23161,0
+534,Ario,Michoacan,More than 50%,62.2,20,40726,2
+515,Arteaga,Michoacan,More than 50%,67,10,20469,4
+617,Briseñas,Michoacan,More than 50%,67.7,3,10602,1
+539,Buenavista,Michoacan,More than 50%,60.1,9,58506,5
+527,Caracuaro,Michoacan,More than 75%,85.9,12,9531,2
+518,Coahuayana,Michoacan,More than 50%,56.4,2,16179,2
+522,Coalcoman de Vazquez Pallares,Michoacan,More than 50%,68.7,10,18010,0
+582,Coeneo,Michoacan,More than 75%,77.1,2,16604,2
+598,Contepec,Michoacan,More than 50%,73.5,17,33416,3
+587,Copandaro,Michoacan,More than 50%,73.3,15,9198,1
+580,Cotija,Michoacan,More than 50%,66.3,4,18924,0
+596,Cuitzeo,Michoacan,More than 75%,78.5,21,26180,4
+570,Charapan,Michoacan,More than 75%,83.5,2,11005,1
+567,Charo,Michoacan,More than 50%,59.2,12,23564,3
+605,Chavinda,Michoacan,More than 50%,66.8,4,10588,0
+568,Cheran,Michoacan,More than 75%,83.7,8,16207,0
+581,Chilchota,Michoacan,More than 75%,82.5,21,33328,0
+586,Chucandiro,Michoacan,More than 75%,76.4,10,4583,1
+610,Churintzio,Michoacan,More than 50%,70.8,8,5042,2
+520,Churumuco,Michoacan,More than 75%,78.9,1,15374,1
+615,Ecuandureo,Michoacan,More than 50%,67.5,1,11950,2
+613,Epitacio Huerta,Michoacan,More than 50%,71.8,6,16272,1
+562,Erongaracuaro,Michoacan,More than 50%,71.2,4,14687,5
+533,Gabriel Zamora,Michoacan,More than 50%,66.5,16,24414,2
+576,Hidalgo,Michoacan,More than 50%,73.6,37,112730,6
+524,La Huacana,Michoacan,More than 50%,72.8,18,35477,5
+594,Huandacareo,Michoacan,More than 50%,67.4,7,11507,0
+584,Huaniqueo,Michoacan,More than 75%,82.7,3,8135,3
+519,Huetamo,Michoacan,More than 50%,68.2,323,42807,21
+550,Huiramba,Michoacan,More than 75%,76.2,2,8882,0
+577,Indaparapeo,Michoacan,More than 50%,73.9,2,16751,0
+566,Irimbo,Michoacan,More than 50%,73.3,9,14374,2
+609,Ixtlan,Michoacan,More than 50%,65.6,2,13638,0
+592,Jacona,Michoacan,More than 50%,56.3,42,72870,4
+599,Jiquilpan,Michoacan,More than 50%,58.4,8,33079,3
+537,Juarez,Michoacan,More than 50%,64.7,38,15351,2
+546,Jungapeo,Michoacan,More than 50%,66.6,15,26594,3
+547,Madero,Michoacan,More than 75%,79.4,4,16098,3
+593,Maravatio,Michoacan,More than 50%,73,74,93327,1
+602,Marcos Castellanos,Michoacan,More than 50%,56.1,9,14856,1
+513,Lazaro Cardenas,Michoacan,More than 25%,45.8,2056,190313,142
+574,Morelia,Michoacan,More than 25%,49.6,719,775246,86
+525,Mugica,Michoacan,More than 50%,63.3,288,51130,48
+564,Nahuatzen,Michoacan,More than 75%,87.4,7,24935,0
+531,Nocupetaro,Michoacan,More than 75%,85,7,8235,1
+544,Nuevo Parangaricutiro,Michoacan,More than 50%,65.7,3,21267,2
+532,Nuevo Urecho,Michoacan,More than 50%,64.2,2,8030,2
+618,Numaran,Michoacan,More than 50%,72.2,7,9845,1
+556,Ocampo,Michoacan,More than 75%,80.7,4,23128,3
+612,Pajacuaran,Michoacan,More than 50%,73.6,7,17657,1
+604,Panindacuaro,Michoacan,More than 50%,73.9,5,14431,1
+530,Paracuaro,Michoacan,More than 50%,71.3,20,31596,6
+563,Paracho,Michoacan,More than 50%,72.5,50,38948,7
+551,Patzcuaro,Michoacan,More than 50%,70.9,53,86166,9
+607,Penjamillo,Michoacan,More than 50%,72.6,2,17188,0
+552,Periban,Michoacan,More than 50%,51.7,1,32924,1
+623,La Piedad,Michoacan,More than 50%,57,100,103296,16
+589,Purepero,Michoacan,More than 50%,68.3,5,14611,0
+616,Puruandiro,Michoacan,More than 50%,72.8,8,62230,4
+572,Querandaro,Michoacan,More than 75%,75.9,1,12370,0
+565,Quiroga,Michoacan,More than 75%,78,12,23831,1
+606,Cojumatlan de Regules,Michoacan,More than 50%,71.8,10,10371,1
+569,Los Reyes,Michoacan,More than 50%,56.6,8,79491,5
+603,Sahuayo,Michoacan,More than 50%,60.4,11,77507,3
+517,San Lucas,Michoacan,More than 75%,76.1,44,16465,3
+597,Santa Ana Maya,Michoacan,More than 75%,76.4,11,10798,0
+542,Salvador Escalante,Michoacan,More than 75%,81.2,4,48199,1
+571,Senguio,Michoacan,More than 50%,71.2,2,20510,0
+535,Susupuato,Michoacan,More than 75%,83.3,7,8848,1
+540,Tacambaro,Michoacan,More than 50%,64.8,21,81499,10
+545,Tancataro,Michoacan,More than 50%,62.1,8,36027,1
+591,Tangamandapio,Michoacan,More than 50%,73.4,1,26969,1
+512,Tangancucuaro,Michoacan,More than 50%,62.7,17,36831,0
+621,Tanhuato,Michoacan,More than 50%,63,3,15617,1
+538,Taretan,Michoacan,More than 50%,52.6,6,17190,0
+578,Tarambaro,Michoacan,More than 50%,50.5,46,104897,6
+528,Tepalcatepec,Michoacan,More than 50%,59.9,18,26987,1
+553,Tingambato,Michoacan,More than 50%,74.1,2,14283,0
+579,Tinguindin,Michoacan,More than 50%,61.2,1,15208,1
+536,Tiquicheo de Nicolas Romero,Michoacan,More than 75%,80.3,1,13191,0
+575,Tlalpujahua,Michoacan,More than 50%,70.7,29,29458,1
+600,Tlazazalca,Michoacan,More than 75%,77.4,4,6229,2
+573,Tocumbo,Michoacan,More than 50%,57.4,2,11913,0
+526,Turicato,Michoacan,More than 50%,74.9,6,27814,5
+557,Tuxpan,Michoacan,More than 50%,66.9,20,28936,4
+541,Tuzantla,Michoacan,More than 75%,82.5,15,13651,1
+558,Tzintzuntzan,Michoacan,More than 50%,69.6,12,14875,4
+559,Tzitzio,Michoacan,More than 75%,84.2,3,9011,0
+554,Uruapan,Michoacan,More than 50%,58.9,505,346073,66
+611,Venustiano Carranza,Michoacan,More than 50%,71.3,6,21458,1
+601,Villamar,Michoacan,More than 50%,71.5,3,15152,2
+619,Vista Hermosa,Michoacan,More than 50%,61.6,3,22187,3
+622,Yuracuaro,Michoacan,More than 50%,67.3,21,29960,3
+590,Zacapu,Michoacan,More than 50%,67,18,65564,4
+511,Zamora,Michoacan,More than 50%,57,149,203048,30
+614,Zinaparo,Michoacan,More than 50%,54.9,12,3217,0
+583,Zinapacuaro,Michoacan,More than 50%,70.4,40,44800,3
+543,Ziracuaretiro,Michoacan,More than 50%,64.4,14,20892,1
+549,Zitacuaro,Michoacan,More than 50%,65.6,127,168100,32
+620,Jose Sixto Verduzco,Michoacan,More than 50%,73.7,11,22706,3
+246,Amacuzac,Morelos,More than 50%,63.5,7,18621,1
+240,Atlatlahucan,Morelos,More than 25%,46.1,24,23582,6
+255,Axochiapan,Morelos,More than 75%,80.9,57,39116,15
+241,Ayala,Morelos,More than 50%,62.4,120,87198,21
+229,Coatlan del Rio,Morelos,More than 50%,56.1,11,9894,3
+239,Cuautla,Morelos,More than 50%,53.7,450,193440,95
+227,Cuernavaca,Morelos,More than 25%,39,745,359698,189
+243,Emiliano Zapata,Morelos,More than 50%,53.2,99,98689,20
+231,Huitzilac,Morelos,More than 50%,50,18,20821,4
+251,Jantetelco,Morelos,More than 50%,62.2,11,17557,5
+244,Jiutepec,Morelos,More than 25%,45.6,268,210645,77
+245,Jojutla,Morelos,More than 50%,57.1,148,56360,40
+250,Jonacatepec,Morelos,More than 50%,63.3,12,15994,1
+224,Mazatepec,Morelos,More than 50%,50.9,9,10095,1
+230,Miacatlan,Morelos,More than 50%,70.9,22,29251,5
+232,Ocuituco,Morelos,More than 75%,83.8,19,20631,3
+248,Puente de Ixtla,Morelos,More than 50%,69.8,137,71263,56
+226,Temixco,Morelos,More than 50%,64.4,123,116509,46
+254,Tepalcingo,Morelos,More than 75%,76.7,49,28775,15
+225,Tepoztlan,Morelos,More than 25%,41.7,42,51823,8
+247,Tetecala,Morelos,More than 50%,58.6,7,7871,0
+235,Tetela del Volcan,Morelos,More than 75%,82.5,22,23004,4
+238,Tlalnepantla,Morelos,More than 75%,75,5,7256,0
+252,Tlaltizapan,Morelos,More than 50%,62.4,78,53456,20
+253,Tlaquiltenango,Morelos,More than 50%,58.3,48,34914,17
+237,Tlayacapan,Morelos,More than 50%,55,28,18390,5
+236,Totolapan,Morelos,More than 50%,65.3,6,13949,1
+228,Xochitepec,Morelos,More than 50%,60.6,100,69844,39
+223,Yautepec,Morelos,More than 50%,57.1,82,101940,17
+233,Yecapixtla,Morelos,More than 50%,66.1,66,55107,11
+242,Zacatepec,Morelos,More than 50%,52.4,133,35246,38
+234,Zacualpan,Morelos,More than 75%,75.1,8,9489,1
+249,Temoac,Morelos,More than 75%,82.2,6,16759,0
+366,Acaponeta,Nayarit,More than 50%,59.5,55,37646,14
+367,Ahuacatlan,Nayarit,More than 25%,45.1,13,17982,4
+368,Amatlan de Casas,Nayarit,More than 50%,52.9,3,13582,1
+382,Compostela,Nayarit,More than 25%,48.1,78,81023,18
+369,Huajicori,Nayarit,More than 75%,90.3,2,12007,3
+370,Ixtlan del Rio,Nayarit,More than 50%,56.4,46,30916,9
+371,Jala,Nayarit,More than 50%,74.2,84,19790,24
+372,Xalisco,Nayarit,More than 25%,33,63,60766,8
+373,Del Nayar,Nayarit,More than 75%,87.5,12,44282,1
+385,Rosamorada,Nayarit,More than 50%,53.6,43,37792,6
+374,Ruiz,Nayarit,More than 50%,67.3,9,25994,1
+384,San Blas,Nayarit,More than 50%,57.3,29,46890,8
+375,San Pedro Lagunillas,Nayarit,More than 50%,52.8,2,7812,1
+376,Santa Maria del Oro,Nayarit,More than 25%,45.2,11,25582,8
+383,Santiago Ixcuintla,Nayarit,More than 50%,53.3,86,105833,20
+377,Tecuala,Nayarit,More than 50%,58.1,54,41491,23
+378,Tepic,Nayarit,More than 25%,34.3,881,422737,97
+379,Tuxpan,Nayarit,More than 50%,58.8,54,30841,15
+380,La Yesca,Nayarit,More than 75%,83.8,3,13474,1
+381,Bahia de Banderas,Nayarit,More than 25%,32.4,248,153793,29
+2214,Abasolo,Nuevo Leon,Less than 25%,17.6,2,2639,0
+2249,Agualeguas,Nuevo Leon,Less than 25%,12.8,3,2439,0
+2217,Los Aldamas,Nuevo Leon,More than 25%,29.7,1,1292,0
+2248,Allende,Nuevo Leon,More than 25%,27.3,33,34360,5
+2247,Anahuac,Nuevo Leon,More than 50%,54,2,16165,1
+2211,Apodaca,Nuevo Leon,Less than 25%,23.3,668,594808,70
+2246,Aramberri,Nuevo Leon,More than 50%,67.2,5,16023,0
+2222,Bustamante,Nuevo Leon,More than 25%,44.5,1,3977,0
+2245,Cadereyta Jimenez,Nuevo Leon,More than 25%,39.4,53,96644,10
+2207,Carmen,Nuevo Leon,More than 25%,40.8,33,38104,3
+2244,Cerralvo,Nuevo Leon,More than 50%,64.4,5,7751,0
+2212,Cienega de Flores,Nuevo Leon,More than 25%,42.2,28,45130,8
+2215,China,Nuevo Leon,More than 25%,44,20,10983,1
+2243,Dr. Arroyo,Nuevo Leon,More than 50%,71.3,38,37697,1
+2242,Dr. Gonzalez,Nuevo Leon,Less than 25%,15.7,1,2861,1
+2241,Galeana,Nuevo Leon,More than 50%,64.4,39,38771,1
+2203,Garcia,Nuevo Leon,More than 25%,30.2,191,254727,8
+2206,San Pedro Garza Garcia,Nuevo Leon,Less than 25%,5.6,125,108050,10
+2216,Gral. Bravo,Nuevo Leon,More than 25%,48.3,4,5466,0
+2208,Gral. Escobedo,Nuevo Leon,More than 25%,33.4,395,427288,42
+2240,Gral. Teran,Nuevo Leon,More than 25%,43.5,6,15643,0
+2238,Gral. Zaragoza,Nuevo Leon,More than 50%,61,2,6000,0
+2210,Gral. Zuazua,Nuevo Leon,More than 25%,36.4,39,69102,4
+2199,Guadalupe,Nuevo Leon,Less than 25%,24.8,939,681375,88
+2237,Los Herreras,Nuevo Leon,Less than 25%,11.3,1,1759,0
+2236,Higueras,Nuevo Leon,Less than 25%,19,1,1508,0
+2235,Hualahuises,Nuevo Leon,More than 50%,52.2,4,6922,1
+2234,Iturbide,Nuevo Leon,More than 50%,59.1,3,3569,0
+2200,Juarez,Nuevo Leon,More than 25%,35.4,302,342400,30
+2233,Lampazos de Naranjo,Nuevo Leon,More than 25%,44.8,5,5237,0
+2223,Linares,Nuevo Leon,More than 50%,50.9,89,78593,5
+2232,Marin,Nuevo Leon,More than 25%,43,7,5631,1
+2231,Melchor Ocampo,Nuevo Leon,Less than 25%,5.1,1,955,1
+2230,Mier y Noriega,Nuevo Leon,More than 75%,76,4,6997,0
+2229,Mina,Nuevo Leon,More than 25%,41.6,2,5327,1
+2228,Montemorelos,Nuevo Leon,More than 25%,33.7,98,63252,5
+2205,Monterrey,Nuevo Leon,Less than 25%,23.1,1919,1097047,167
+2201,Pesqueria,Nuevo Leon,More than 25%,32.4,63,92099,10
+2226,Los Ramones,Nuevo Leon,More than 25%,38.6,3,4468,1
+2220,Sabinas Hidalgo,Nuevo Leon,More than 25%,45.7,72,32113,2
+2209,Salinas Victoria,Nuevo Leon,More than 25%,33,59,57975,4
+2221,San Nicolas de los Garza,Nuevo Leon,Less than 25%,18.9,548,417423,71
+2213,Hidalgo,Nuevo Leon,Less than 25%,19.9,3,16798,2
+2204,Santa Catarina,Nuevo Leon,Less than 25%,22.7,326,297015,29
+2202,Santiago,Nuevo Leon,More than 25%,28.2,71,40649,3
+2224,Vallecillo,Nuevo Leon,More than 25%,36.8,1,1631,0
+2219,Villaldama,Nuevo Leon,More than 25%,41.8,10,4080,2
+1419,Abejones,Oaxaca,More than 75%,95.1,2,910,1
+1420,Acatlan de Perez Figueroa,Oaxaca,More than 50%,71.5,24,37236,6
+1421,Asuncion Cacalotepec,Oaxaca,More than 75%,95.5,1,2087,0
+1125,Asuncion Cuyotepeji,Oaxaca,More than 50%,73.9,1,959,0
+930,Asuncion Ixtaltepec,Oaxaca,More than 50%,59.6,5,13023,0
+1480,Asuncion Nochixtlan,Oaxaca,More than 50%,67.4,37,17142,6
+1422,Asuncion Tlacolulita,Oaxaca,More than 75%,80.3,,782,
+928,El Barrio de la Soledad,Oaxaca,More than 25%,47.7,9,11332,1
+1126,Calihuala,Oaxaca,More than 75%,90.2,1,1219,0
+938,Candelaria Loxicha,Oaxaca,More than 75%,88.2,2,10822,0
+1047,Cienega de Zimatlan,Oaxaca,More than 75%,84.6,1,3044,0
+1424,Ciudad Ixtepec,Oaxaca,More than 50%,53.6,17,32309,9
+1425,Coatecas Altas,Oaxaca,More than 75%,97.4,,4973,
+1127,Coicoyan de las Flores,Oaxaca,More than 75%,99.4,1,10246,1
+1048,La Compañia,Oaxaca,More than 75%,93.1,,3470,
+1075,Concepcion Buenavista,Oaxaca,More than 75%,92.5,,828,
+1479,Constancia del Rosario,Oaxaca,More than 75%,85.1,4,4065,0
+1076,Cosolapa,Oaxaca,More than 50%,64.2,22,15157,2
+1128,Cosoltepec,Oaxaca,More than 75%,94.2,,737,
+1049,Cuilapam de Guerrero,Oaxaca,More than 50%,61.7,42,25999,7
+931,Chahuites,Oaxaca,More than 75%,76.1,6,11913,0
+1130,Chalcatongo de Hidalgo,Oaxaca,More than 75%,84.4,6,9343,1
+1427,Chiquihuitlan de Benito Juarez,Oaxaca,More than 75%,90.1,2,2320,0
+1057,Heroica Ciudad de Ejutla de Crespo,Oaxaca,More than 75%,75.2,13,16240,0
+1428,El Espinal,Oaxaca,More than 25%,42.8,6,8824,2
+1460,Tamazulapam del Espiritu Santo,Oaxaca,More than 75%,85.7,8,7321,1
+1132,Fresnillo de Trujano,Oaxaca,More than 75%,87.1,,1027,
+1050,Guadalupe Etla,Oaxaca,More than 25%,35.8,9,2719,3
+1133,Guadalupe de Ramirez,Oaxaca,More than 75%,75.6,,1208,
+1051,Guelatao de Juarez,Oaxaca,More than 50%,59.2,,547,
+1134,Mesones Hidalgo,Oaxaca,More than 75%,95.4,1,4515,0
+1429,Villa Hidalgo,Oaxaca,More than 75%,84.8,,1973,
+1478,Heroica Ciudad de Huajuapan de Leon,Oaxaca,More than 50%,57.1,132,85182,16
+1430,Huautepec,Oaxaca,More than 75%,97.6,,6495,
+1431,Huautla de Jimenez,Oaxaca,More than 75%,77.4,8,14551,1
+1474,Ixtlan de Juarez,Oaxaca,More than 75%,82.7,3,8523,1
+935,Heroica Ciudad de Juchitan de Zaragoza,Oaxaca,More than 50%,61.5,52,98015,14
+1491,Loma Bonita,Oaxaca,More than 50%,66.3,20,48215,4
+963,Magdalena Apasco,Oaxaca,More than 25%,41.8,28,8557,3
+1135,Magdalena Jaltepec,Oaxaca,More than 75%,84.8,1,3245,1
+1136,Santa Magdalena Jicotlan,Oaxaca,More than 75%,89.6,,90,
+975,Magdalena Mixtepec,Oaxaca,More than 75%,98.2,,1418,
+979,Magdalena Ocotlan,Oaxaca,More than 50%,73,1,1182,0
+1137,Magdalena Peñasco,Oaxaca,More than 75%,97.2,,3486,
+980,Magdalena Teitipac,Oaxaca,More than 75%,96.5,2,4704,1
+1154,Magdalena Tequisistlan,Oaxaca,More than 75%,77.7,2,6226,0
+1155,Magdalena Tlacotepec,Oaxaca,More than 50%,55.9,,1257,
+1140,Martires de Tacubaya,Oaxaca,More than 50%,71.3,,1468,
+1141,Mazatlan Villa de Flores,Oaxaca,More than 75%,96.2,1,13505,0
+1059,Miahuatlan de Porfirio Diaz,Oaxaca,More than 50%,69,41,40456,9
+1158,Natividad,Oaxaca,More than 50%,54.9,,490,
+976,Nazareno Etla,Oaxaca,More than 50%,63.7,18,4031,4
+1490,Nejapa de Madero,Oaxaca,More than 75%,77.9,1,7614,0
+1159,Santiago Niltepec,Oaxaca,More than 75%,81.2,,5493,
+958,Oaxaca de Juarez,Oaxaca,More than 25%,45.1,1432,272921,150
+948,Ocotlan de Morelos,Oaxaca,More than 50%,64.7,54,20898,7
+981,La Pe,Oaxaca,More than 75%,90.6,1,2714,0
+1143,Pinotepa de Don Luis,Oaxaca,More than 75%,89.5,2,7106,0
+946,San Jose del Progreso,Oaxaca,More than 75%,89,4,7035,0
+1477,Putla Villa de Guerrero,Oaxaca,More than 50%,69.1,30,38813,2
+1160,Santa Catarina Quioquitani,Oaxaca,More than 75%,98.9,,497,
+1144,La Reforma,Oaxaca,More than 75%,81.2,,3357,
+962,Reyes Etla,Oaxaca,More than 25%,47.2,12,3871,1
+1161,Salina Cruz,Oaxaca,More than 25%,49,121,100159,24
+1145,San Agustin Atenango,Oaxaca,More than 75%,81.2,,1815,
+1146,San Agustin Chayuco,Oaxaca,More than 75%,90.2,,4227,
+983,San Agustin de las Juntas,Oaxaca,More than 50%,56.9,34,9632,5
+984,San Agustin Etla,Oaxaca,More than 50%,54.5,21,4102,0
+1163,San Agustin Loxicha,Oaxaca,More than 75%,96.2,1,25221,0
+1147,San Agustin Tlacotepec,Oaxaca,More than 75%,88.2,,958,
+945,San Agustin Yatareni,Oaxaca,More than 75%,84.8,9,4460,1
+1148,San Andres Cabecera Nueva,Oaxaca,More than 75%,95.8,,2906,
+1149,San Andres Dinicuiti,Oaxaca,More than 75%,83,,2178,
+1150,San Andres Huaxpaltepec,Oaxaca,More than 75%,78.6,1,6358,0
+959,San Andres Huayapam,Oaxaca,More than 25%,41,23,5485,1
+977,San Andres Ixtlahuaca,Oaxaca,More than 50%,66.6,12,1651,2
+1151,San Andres Lagunas,Oaxaca,More than 75%,92,,498,
+1068,San Andres Sinaxtla,Oaxaca,More than 50%,61.3,,738,
+1165,San Andres Solaga,Oaxaca,More than 75%,87.3,,1722,
+1166,San Andres Teotilalpam,Oaxaca,More than 75%,95.9,,4563,
+1152,San Andres Tepetlapa,Oaxaca,More than 75%,96.6,,487,
+1167,San Andres Yaa,Oaxaca,More than 75%,83.6,,435,
+1153,San Andres Zabache,Oaxaca,More than 75%,88.4,,762,
+926,San Andres Zautla,Oaxaca,More than 25%,44,4,4545,2
+942,San Antonino Castillo Velasco,Oaxaca,More than 75%,92.7,42,6191,8
+1041,San Antonino el Alto,Oaxaca,More than 75%,88.5,1,2687,0
+1355,San Antonio Acutla,Oaxaca,More than 75%,93.3,,257,
+1008,San Antonio de la Cal,Oaxaca,More than 50%,56,126,23895,23
+1042,San Antonio Huitepec,Oaxaca,More than 75%,97.6,,4559,
+985,San Baltazar Chichicapam,Oaxaca,More than 75%,82.6,3,2571,1
+1169,San Baltazar Yatzachi el Bajo,Oaxaca,More than 75%,94.2,,659,
+1489,San Bartolo Coyotepec,Oaxaca,More than 25%,42.4,49,9384,4
+986,San Bartolome Quialana,Oaxaca,More than 75%,82.7,1,2553,0
+1433,San Bartolome Yucuañe,Oaxaca,More than 75%,98.2,,398,
+1172,San Bartolome Zoogocho,Oaxaca,More than 75%,79.4,,344,
+1434,San Bartolo Soyaltepec,Oaxaca,More than 75%,91.6,,674,
+1173,San Bartolo Yautepec,Oaxaca,More than 75%,91.1,,656,
+1052,San Bernardo Mixtepec,Oaxaca,More than 75%,87.7,1,2826,0
+1248,San Blas Atempa,Oaxaca,More than 75%,76.7,5,13023,0
+1175,San Cristobal Amatlan,Oaxaca,More than 75%,98.4,1,5309,0
+1435,San Cristobal Amoltepec,Oaxaca,More than 75%,94.7,,1035,
+1470,San Cristobal Lachirioag,Oaxaca,More than 75%,79.8,,1244,
+1436,San Cristobal Suchixtlahuaca,Oaxaca,More than 50%,71.7,,371,
+1176,San Dionisio del Mar,Oaxaca,More than 75%,85.7,1,5287,0
+1177,San Dionisio Ocotepec,Oaxaca,More than 75%,82.8,2,6035,1
+949,San Dionisio Ocotlan,Oaxaca,More than 50%,62.2,6,1111,0
+1437,San Esteban Atatlahuca,Oaxaca,More than 75%,96.5,,3707,
+1178,San Felipe Jalapa de Diaz,Oaxaca,More than 75%,94.4,14,28844,3
+1053,San Felipe Tejalapam,Oaxaca,More than 50%,68.2,15,8104,2
+1179,San Felipe Usila,Oaxaca,More than 75%,94.4,1,11961,1
+1438,San Francisco Cahuacua,Oaxaca,More than 75%,96.8,,3484,
+1464,San Francisco Cajonos,Oaxaca,More than 75%,93.4,,454,
+1249,San Francisco Chapulapa,Oaxaca,More than 75%,96,,2109,
+1439,San Francisco Huehuetlan,Oaxaca,More than 75%,96.6,,1022,
+934,San Francisco Ixhuatan,Oaxaca,More than 75%,80.7,3,9258,1
+1440,San Francisco Jaltepetongo,Oaxaca,More than 75%,93.7,,979,
+957,San Francisco Lachigolo,Oaxaca,More than 50%,62.1,7,3970,1
+1180,San Francisco Logueche,Oaxaca,More than 75%,95.1,,2874,
+1071,San Francisco Nuxaño,Oaxaca,More than 75%,91.7,,378,
+1462,San Francisco Ozolotepec,Oaxaca,More than 75%,98.4,,2001,
+1067,San Francisco Sola,Oaxaca,More than 75%,77,2,1783,0
+1054,San Francisco Telixtlahuaca,Oaxaca,More than 50%,66.8,13,12347,3
+1441,San Francisco Teopan,Oaxaca,More than 75%,97.8,,333,
+1442,San Francisco Tlapancingo,Oaxaca,More than 75%,95.2,,2175,
+1443,San Gabriel Mixtepec,Oaxaca,More than 75%,83.9,1,4984,1
+1060,San Ildefonso Amatlan,Oaxaca,More than 75%,94.6,,2482,
+968,San Ildefonso Sola,Oaxaca,More than 75%,90.4,,1015,
+987,San Jacinto Amilpas,Oaxaca,More than 25%,42.9,87,15918,8
+1444,San Jacinto Tlacotepec,Oaxaca,More than 75%,96,1,2328,0
+1181,San Jeronimo Coatlan,Oaxaca,More than 75%,96.7,,5175,
+1055,San Jeronimo Sosola,Oaxaca,More than 75%,92.5,3,2596,1
+988,San Jeronimo Taviche,Oaxaca,More than 75%,90.9,,1994,
+1446,San Jeronimo Tecoatl,Oaxaca,More than 75%,89.3,1,1638,0
+1073,San Jorge Nuchita,Oaxaca,More than 75%,92.9,4,2858,1
+1465,San Jose Ayuquila,Oaxaca,More than 75%,84.1,,1559,
+1182,San Jose Chiltepec,Oaxaca,More than 50%,69.2,19,16192,3
+1447,San Jose Estancia Grande,Oaxaca,More than 50%,68.2,,1091,
+1183,San Jose Independencia,Oaxaca,More than 75%,92.8,,3988,
+1184,San Jose Lachiguiri,Oaxaca,More than 75%,97.8,,3352,
+1185,San Jose Tenango,Oaxaca,More than 75%,95.4,3,18879,1
+1186,San Juan Atepec,Oaxaca,More than 75%,94.7,,1508,
+989,Animas Trujano,Oaxaca,More than 50%,55.4,18,4034,1
+1187,San Juan Bautista Atatlahuca,Oaxaca,More than 75%,95.7,2,1632,1
+1449,San Juan Bautista Coixtlahuaca,Oaxaca,More than 75%,86.4,1,2767,1
+1450,San Juan Bautista Cuicatlan,Oaxaca,More than 75%,78.4,22,10244,3
+990,San Juan Bautista Guelache,Oaxaca,More than 25%,45.7,19,7082,2
+1188,San Juan Bautista Jayacatlan,Oaxaca,More than 75%,92.8,,1501,
+1451,San Juan Bautista Lo de Soto,Oaxaca,More than 50%,59.1,1,2671,0
+1452,San Juan Bautista Suchitepec,Oaxaca,More than 75%,89.4,,454,
+1189,San Juan Bautista Tlacoatzintepec,Oaxaca,More than 75%,97.5,,2246,
+1475,San Juan Bautista Tlachichilco,Oaxaca,More than 75%,95.8,,1426,
+1190,San Juan Bautista Tuxtepec,Oaxaca,More than 50%,60.5,556,191387,115
+1453,San Juan Cacahuatepec,Oaxaca,More than 75%,84.1,1,9126,0
+1454,San Juan Cieneguilla,Oaxaca,More than 75%,79.1,,564,
+1191,San Juan Coatzaspam,Oaxaca,More than 75%,97.3,,1864,
+1455,San Juan Colorado,Oaxaca,More than 75%,82.7,2,6065,1
+1192,San Juan Comaltepec,Oaxaca,More than 75%,98.2,1,2960,0
+1193,San Juan Cotzocan,Oaxaca,More than 50%,73.3,17,25106,2
+991,San Juan Chicomezuchil,Oaxaca,More than 50%,63.2,,340,
+950,San Juan Chilateca,Oaxaca,More than 25%,49.6,3,1538,1
+964,San Juan del Estado,Oaxaca,More than 75%,78.9,3,2672,0
+1194,San Juan del Rio,Oaxaca,More than 75%,83.7,,1276,
+1456,San Juan Diuxi,Oaxaca,More than 75%,88.8,,1104,
+1195,San Juan Evangelista Analco,Oaxaca,More than 75%,88.3,,426,
+992,San Juan Guelavia,Oaxaca,More than 75%,86.3,1,3311,0
+1457,San Juan Ihualtepec,Oaxaca,More than 75%,96.9,,598,
+1196,San Juan Juquila Mixes,Oaxaca,More than 75%,92.5,1,3838,0
+1197,San Juan Juquila Vijanos,Oaxaca,More than 75%,95,,2014,
+1458,San Juan Lachao,Oaxaca,More than 75%,86,,4821,
+1199,San Juan Lajarcia,Oaxaca,More than 75%,91.3,,626,
+1459,San Juan de los Cues,Oaxaca,More than 75%,78.1,3,2520,0
+1358,San Juan Mixtepec -Dto. 08 -,Oaxaca,More than 75%,88.5,,6888,
+1062,San Juan Mixtepec -Dto. 26 -,Oaxaca,More than 75%,95.8,,681,
+1359,San Juan Ñumi,Oaxaca,More than 75%,96.2,,5926,
+1201,San Juan Petlapa,Oaxaca,More than 75%,98.3,,3010,
+1202,San Juan Quiotepec,Oaxaca,More than 75%,94.7,,2041,
+1361,San Juan Teita,Oaxaca,More than 75%,99.1,,548,
+1204,San Juan Tepeuxila,Oaxaca,More than 75%,97.5,,2720,
+1362,San Juan Teposcolula,Oaxaca,More than 75%,82.3,1,1266,0
+1205,San Juan Yaee,Oaxaca,More than 75%,93.9,,1527,
+1206,San Juan Yatzona,Oaxaca,More than 75%,93.8,,489,
+1363,San Juan Yucuita,Oaxaca,More than 50%,72.3,1,585,1
+994,San Lorenzo Cacaotepec,Oaxaca,More than 50%,51.2,54,16208,1
+1365,San Lorenzo Cuaunecuiltitla,Oaxaca,More than 75%,98.5,,832,
+1366,San Lorenzo Texmelacan,Oaxaca,More than 75%,99.1,1,8583,1
+1072,San Lorenzo Victoria,Oaxaca,More than 50%,74.2,2,970,0
+1208,San Lucas Camotlan,Oaxaca,More than 75%,95.1,1,3053,0
+1209,San Lucas Ojitlan,Oaxaca,More than 75%,94,10,20707,5
+995,San Lucas Quiavini,Oaxaca,More than 75%,86.9,,1789,
+1210,San Luis Amatlan,Oaxaca,More than 75%,93,,3756,
+1211,San Marcial Ozolotepec,Oaxaca,More than 75%,97.9,,1603,
+1353,San Marcos Arteaga,Oaxaca,More than 50%,70.6,1,1466,0
+996,San Martin de los Cansecos,Oaxaca,More than 75%,90.3,,878,
+1368,San Martin Huamelalpam,Oaxaca,More than 75%,84.3,,1042,
+1369,San Martin Itunyoso,Oaxaca,More than 75%,96.6,,2370,
+1044,San Martin Lachila,Oaxaca,More than 75%,81.2,,1121,
+1370,San Martin Peras,Oaxaca,More than 75%,99.4,,12628,
+1371,San Martin Toxpalan,Oaxaca,More than 75%,85.8,3,3905,0
+1372,San Martin Zacatepec,Oaxaca,More than 75%,81.3,,1304,
+1212,San Mateo Cajonos,Oaxaca,More than 75%,95,,635,
+997,Capulalpam de Mendez,Oaxaca,More than 25%,45.8,1,1597,0
+1373,San Mateo Yoloxochitlan,Oaxaca,More than 75%,94,1,3726,0
+1374,San Mateo Etlatongo,Oaxaca,More than 75%,80.5,,1142,
+1375,San Mateo Nejapam,Oaxaca,More than 75%,96.3,,1180,
+1376,San Mateo Peñasco,Oaxaca,More than 75%,95.9,,2124,
+1214,San Mateo Piñas,Oaxaca,More than 75%,91.1,,2148,
+1063,San Mateo Rio Hondo,Oaxaca,More than 75%,91.7,2,3229,0
+1378,San Mateo Tlapiltepec,Oaxaca,More than 75%,91.2,4,231,0
+1215,San Melchor Betaza,Oaxaca,More than 75%,94.9,,1017,
+1379,San Miguel Achiutla,Oaxaca,More than 75%,94.8,,734,
+1380,San Miguel Ahuehuetitlan,Oaxaca,More than 75%,96.3,,2434,
+1216,San Miguel Aloapam,Oaxaca,More than 75%,88.8,,2240,
+1217,San Miguel Coatlan,Oaxaca,More than 75%,87.5,,3277,
+1382,San Miguel Chicahua,Oaxaca,More than 75%,96.1,,2162,
+1219,San Miguel del Puerto,Oaxaca,More than 75%,78.6,2,8614,0
+999,San Miguel del Rio,Oaxaca,More than 75%,86,,252,
+1220,San Miguel Ejutla,Oaxaca,More than 50%,69.3,2,1046,0
+1383,San Miguel el Grande,Oaxaca,More than 50%,73.6,3,4236,0
+1384,San Miguel Huautla,Oaxaca,More than 75%,96.9,1,1128,1
+1045,San Miguel Mixtepec,Oaxaca,More than 75%,98.9,,2725,
+1046,San Miguel Peras,Oaxaca,More than 75%,98,,3388,
+1386,San Miguel Piedras,Oaxaca,More than 75%,98.6,,1311,
+1222,San Miguel Santa Flor,Oaxaca,More than 75%,94.5,,724,
+967,Villa Sola de Vega,Oaxaca,More than 75%,83,5,5185,1
+1223,San Miguel Soyaltepec,Oaxaca,More than 75%,78.3,8,29715,3
+1224,San Miguel Suchixtepec,Oaxaca,More than 75%,87.2,,2747,
+1225,Villa Talea de Castro,Oaxaca,More than 75%,80.8,,2350,
+1387,San Miguel Tecomatlan,Oaxaca,More than 75%,82,,273,
+1226,San Miguel Tenango,Oaxaca,More than 75%,97.4,,752,
+1388,San Miguel Tequixtepec,Oaxaca,More than 75%,88.5,1,1028,1
+1000,San Miguel Tilquiapam,Oaxaca,More than 75%,99.2,,3247,
+1389,San Miguel Tlacamama,Oaxaca,More than 50%,71.9,,3773,
+1390,San Miguel Tlacotepec,Oaxaca,More than 75%,81.7,3,3258,1
+1391,San Miguel Tulancingo,Oaxaca,More than 75%,95.4,1,305,0
+1227,San Miguel Yotao,Oaxaca,More than 75%,97.3,,611,
+1228,San Nicolas,Oaxaca,More than 50%,73.3,3,1170,0
+1476,San Pablo Cuatro Venados,Oaxaca,More than 75%,99,1,1455,1
+1001,San Pablo Etla,Oaxaca,More than 25%,42.5,59,18528,4
+966,San Pablo Huitzo,Oaxaca,More than 50%,66.3,10,7235,3
+1002,San Pablo Huixtepec,Oaxaca,More than 50%,73.9,10,9600,1
+1230,San Pablo Macuiltianguis,Oaxaca,More than 75%,95.6,,918,
+1231,San Pablo Villa de Mitla,Oaxaca,More than 75%,76,3,10550,2
+1232,San Pablo Yaganiza,Oaxaca,More than 75%,94.6,1,1094,1
+1394,San Pedro Amuzgos,Oaxaca,More than 75%,89.5,2,6872,0
+1395,San Pedro Atoyac,Oaxaca,More than 75%,96.6,1,4681,1
+1463,San Pedro Cajonos,Oaxaca,More than 75%,86.9,1,1123,0
+1396,San Pedro Coxcaltepec Cantaros,Oaxaca,More than 75%,96.9,1,758,0
+929,San Pedro Comitancillo,Oaxaca,More than 50%,56.7,2,4365,0
+1233,San Pedro el Alto,Oaxaca,More than 75%,95.2,,3662,
+1234,San Pedro Huamelula,Oaxaca,More than 50%,60.4,4,19151,1
+1235,San Pedro Huilotepec,Oaxaca,More than 75%,80.2,2,3244,0
+1236,San Pedro Ixcatlan,Oaxaca,More than 75%,81.3,3,5181,1
+1003,San Pedro Ixtlahuaca,Oaxaca,More than 50%,61.1,32,8826,3
+1397,San Pedro Jaltepetongo,Oaxaca,More than 75%,97.2,,562,
+1398,San Pedro Jicayan,Oaxaca,More than 75%,83.2,,8426,
+1399,San Pedro Jocotipac,Oaxaca,More than 75%,97,,803,
+1066,San Pedro Juchatengo,Oaxaca,More than 75%,79,,1610,
+952,San Pedro Martir,Oaxaca,More than 75%,86.5,5,1747,0
+1237,San Pedro Martir Quiechapa,Oaxaca,More than 75%,93.2,,715,
+1400,San Pedro Martir Yucuxaco,Oaxaca,More than 75%,88.6,,1278,
+940,San Pedro Mixtepec -Dto. 22 -,Oaxaca,More than 50%,62,51,54737,5
+1401,San Pedro Molinos,Oaxaca,More than 75%,91,1,689,1
+1402,San Pedro Nopala,Oaxaca,More than 75%,97.8,,742,
+1403,San Pedro Ocopetatillo,Oaxaca,More than 75%,97.3,,815,
+1238,San Pedro Ocotepec,Oaxaca,More than 75%,96.4,1,2163,0
+1239,San Pedro Pochutla,Oaxaca,More than 50%,64.2,15,59683,2
+1240,San Pedro Quiatoni,Oaxaca,More than 75%,98.5,1,11145,1
+1077,San Pedro Tapanatepec,Oaxaca,More than 50%,66.2,8,20876,1
+1004,San Pedro Taviche,Oaxaca,More than 75%,99,,1246,
+1404,San Pedro Teozacoalco,Oaxaca,More than 75%,98.4,,1263,
+1242,San Pedro Teutila,Oaxaca,More than 75%,92.3,,4363,
+1405,San Pedro Tidaa,Oaxaca,More than 75%,93.3,,900,
+1406,San Pedro Topiltepec,Oaxaca,More than 75%,94,,354,
+925,Villa de Tututepec de Melchor Ocampo,Oaxaca,More than 50%,64.1,19,72890,3
+1244,San Pedro Yaneri,Oaxaca,More than 75%,94.2,,938,
+1245,San Pedro Yolox,Oaxaca,More than 75%,94.7,,1751,
+1461,San Pedro y San Pablo Ayutla,Oaxaca,More than 75%,90.6,2,4955,1
+965,Villa de Etla,Oaxaca,More than 50%,50.6,36,14584,5
+1407,San Pedro y San Pablo Teposcolula,Oaxaca,More than 50%,65.2,4,4141,0
+1408,San Pedro y San Pablo Tequixtepec,Oaxaca,More than 75%,92.7,5,1732,0
+1409,San Pedro Yucunama,Oaxaca,More than 75%,85.4,,243,
+1005,San Raymundo Jalpan,Oaxaca,More than 25%,31.4,13,3437,2
+1006,San Sebastian Abasolo,Oaxaca,More than 50%,67.6,3,1992,0
+1246,San Sebastian Coatlan,Oaxaca,More than 75%,92.6,,2762,
+1410,San Sebastian Ixcapa,Oaxaca,More than 75%,78.7,2,4196,1
+1411,San Sebastian Nicananduta,Oaxaca,More than 75%,97.4,,1486,
+1065,San Sebastian Rio Hondo,Oaxaca,More than 75%,93.7,,3699,
+1412,San Sebastian Tecomaxtlahuaca,Oaxaca,More than 75%,82,1,8612,0
+1007,San Sebastian Teitipac,Oaxaca,More than 50%,63.8,2,2028,0
+1483,San Sebastian Tutla,Oaxaca,More than 25%,35,79,19268,5
+1247,San Simon Almolongas,Oaxaca,More than 75%,87.9,,2907,
+1413,San Simon Zahuatlan,Oaxaca,More than 75%,99.5,,3636,
+1250,Santa Ana,Oaxaca,More than 75%,85.7,,2220,
+1414,Santa Ana Ateixtlahuaca,Oaxaca,More than 75%,94.2,,532,
+1251,Santa Ana Cuauhtemoc,Oaxaca,More than 75%,96.1,,750,
+1009,Santa Ana del Valle,Oaxaca,More than 75%,75.3,,2124,
+1010,Santa Ana Tlapacoyan,Oaxaca,More than 75%,80.4,2,2011,1
+943,Santa Ana Zegache,Oaxaca,More than 75%,89.7,5,3891,1
+1254,Santa Catalina Quieri,Oaxaca,More than 75%,97.5,,898,
+1255,Santa Catarina Cuixtla,Oaxaca,More than 50%,74,1,1472,0
+1011,Santa Catarina Ixtepeji,Oaxaca,More than 75%,81.5,1,2652,0
+1415,Santa Catarina Juquila,Oaxaca,More than 75%,76.8,3,11501,1
+1012,Santa Catarina Lachatao,Oaxaca,More than 75%,95.6,,1101,
+1256,Santa Catarina Loxicha,Oaxaca,More than 75%,98.4,2,4027,0
+1416,Santa Catarina Mechoacan,Oaxaca,More than 75%,93.3,3,4599,1
+1013,Santa Catarina Minas,Oaxaca,More than 75%,80.2,1,1990,0
+1014,Santa Catarina Quiane,Oaxaca,More than 50%,55.5,2,1991,0
+1417,Santa Catarina Tayata,Oaxaca,More than 75%,85.5,,684,
+1418,Santa Catarina Ticua,Oaxaca,More than 75%,86.8,,1063,
+1307,Santa Catarina Yosonotu,Oaxaca,More than 75%,90.7,,1605,
+1308,Santa Catarina Zapoquila,Oaxaca,More than 75%,97.6,,377,
+1309,Santa Cruz Acatepec,Oaxaca,More than 75%,94.9,,1596,
+1015,Santa Cruz Amilpas,Oaxaca,More than 50%,52.9,34,13733,7
+1310,Santa Cruz de Bravo,Oaxaca,More than 75%,82.1,,365,
+1311,Santa Cruz Itundujia,Oaxaca,More than 75%,82.1,,6855,
+1016,Santa Cruz Mixtepec,Oaxaca,More than 75%,84.2,1,3530,0
+1312,Santa Cruz Nundaco,Oaxaca,More than 75%,94.1,,3012,
+1017,Santa Cruz Papalutla,Oaxaca,More than 50%,69.5,1,2193,0
+1313,Santa Cruz Tacache de Mina,Oaxaca,More than 50%,70.5,1,2757,0
+1314,Santa Cruz Tacahua,Oaxaca,More than 75%,95.6,,1151,
+1315,Santa Cruz Tayata,Oaxaca,More than 75%,95.2,,600,
+1257,Santa Cruz Xitla,Oaxaca,More than 75%,96.9,,4902,
+1018,Santa Cruz Xoxocotlan,Oaxaca,More than 50%,54.3,403,115835,46
+1019,Santa Gertrudis,Oaxaca,More than 50%,62.7,1,3002,1
+1020,Santa Ines del Monte,Oaxaca,More than 75%,96.3,,2446,
+1482,Santa Lucia del Camino,Oaxaca,More than 25%,45.4,231,54522,19
+1258,Santa Lucia Miahuatlan,Oaxaca,More than 75%,95.1,,3466,
+1022,Santa Lucia Ocotlan,Oaxaca,More than 75%,95.7,9,3975,0
+1259,Santa Maria Alotepec,Oaxaca,More than 75%,95.6,1,2852,2
+1318,Santa Maria Apazco,Oaxaca,More than 75%,86.9,,1774,
+1319,Santa Maria la Asuncion,Oaxaca,More than 75%,96.7,,3338,
+1320,Heroica Ciudad de Tlaxiaco,Oaxaca,More than 50%,60.6,16,39723,5
+1056,Ayoquezco de Aldama,Oaxaca,More than 75%,89.2,1,4548,0
+1023,Santa Maria Atzompa,Oaxaca,More than 50%,50.5,167,37165,17
+1321,Santa Maria Camotlan,Oaxaca,More than 50%,66,,1617,
+939,Santa Maria Colotepec,Oaxaca,More than 50%,63.1,12,28703,3
+1322,Santa Maria Cortijo,Oaxaca,More than 75%,78.2,1,1106,0
+1024,Santa Maria Coyotepec,Oaxaca,More than 25%,34.5,16,3064,1
+1323,Santa Maria Chachoapam,Oaxaca,More than 50%,72.8,,756,
+1324,Villa de Chilapa de Diaz,Oaxaca,More than 75%,76.5,,2173,
+1260,Santa Maria Chilchotla,Oaxaca,More than 75%,96,1,20959,0
+1325,Santa Maria del Rosario,Oaxaca,More than 75%,84.9,,497,
+1058,Santa Maria del Tule,Oaxaca,More than 25%,45.8,30,9194,6
+1025,Santa Maria Guelace,Oaxaca,More than 50%,63.6,,838,
+1263,Santa Maria Guienagati,Oaxaca,More than 75%,94.9,,3266,
+924,Santa Maria Huatulco,Oaxaca,More than 50%,52.3,22,51065,4
+1326,Santa Maria Huazolotitlan,Oaxaca,More than 75%,77.8,1,11751,1
+1327,Santa Maria Ipalapa,Oaxaca,More than 75%,88.1,2,5146,0
+1328,Santa Maria Ixcatlan,Oaxaca,More than 75%,97.3,,503,
+1264,Santa Maria Jacatepec,Oaxaca,More than 75%,77.2,2,9765,1
+1265,Santa Maria Jalapa del Marques,Oaxaca,More than 50%,62.8,6,13257,0
+1039,Santa Maria Lachixio,Oaxaca,More than 75%,94.4,,1902,
+1329,Santa Maria Nativitas,Oaxaca,More than 75%,89.5,,603,
+1330,Santa Maria Nduayaco,Oaxaca,More than 75%,95.5,,481,
+1267,Santa Maria Ozolotepec,Oaxaca,More than 75%,97.6,,4014,
+1268,Santa Maria Papalo,Oaxaca,More than 75%,97.8,1,2151,0
+1269,Santa Maria Quiegolani,Oaxaca,More than 75%,98.2,,1984,
+1331,Santa Maria Sola,Oaxaca,More than 75%,96.8,,1515,
+1332,Santa Maria Tataltepec,Oaxaca,More than 75%,97,,371,
+1333,Santa Maria Tecomavaca,Oaxaca,More than 75%,76.1,1,1744,0
+1270,Santa Maria Temaxcalapa,Oaxaca,More than 75%,95,,929,
+1334,Santa Maria Temaxcaltepec,Oaxaca,More than 75%,91.9,,2651,
+1335,Santa Maria Teopoxco,Oaxaca,More than 75%,97,1,4345,0
+1271,Santa Maria Tepantlali,Oaxaca,More than 75%,89.7,,3571,
+1336,Santa Maria Texcatitlan,Oaxaca,More than 75%,96.2,,1012,
+1272,Santa Maria Tlahuitoltepec,Oaxaca,More than 75%,91.1,2,9199,0
+1273,Santa Maria Tlalixtac,Oaxaca,More than 75%,95.2,,1686,
+1274,Santa Maria Tonameca,Oaxaca,More than 50%,69.9,1,35088,1
+1275,Santa Maria Totolapilla,Oaxaca,More than 75%,92.4,,865,
+1277,Santa Maria Yalina,Oaxaca,More than 75%,83.7,,275,
+1027,Santa Maria Yavesia,Oaxaca,More than 75%,92.3,,486,
+1337,Santa Maria Yolotepec,Oaxaca,More than 75%,95.6,,424,
+1338,Santa Maria Yosoyua,Oaxaca,More than 75%,98.3,1,1561,0
+1339,Santa Maria Yucuhiti,Oaxaca,More than 75%,97.8,,6237,
+1341,Santa Maria Zaniza,Oaxaca,More than 75%,99.7,,2304,
+1028,Santa Maria Zoquitlan,Oaxaca,More than 75%,89.9,,3031,
+1342,Santiago Amoltepec,Oaxaca,More than 75%,98.8,2,13078,0
+1343,Santiago Apoala,Oaxaca,More than 75%,98.5,,902,
+944,Santiago Apostol,Oaxaca,More than 75%,96,,4120,
+923,Santiago Astata,Oaxaca,More than 50%,66.3,1,3822,0
+1278,Santiago Atitlan,Oaxaca,More than 75%,95.9,,3011,
+1466,Santiago Ayuquililla,Oaxaca,More than 75%,90.1,,2664,
+1344,Santiago Cacaloxtepec,Oaxaca,More than 75%,77,1,1484,0
+1279,Santiago Camotlan,Oaxaca,More than 75%,98.9,1,3174,1
+1345,Santiago Chazumba,Oaxaca,More than 75%,81.2,2,4507,0
+1487,Santiago Choapam,Oaxaca,More than 75%,95.3,13,5133,0
+1346,Santiago del Rio,Oaxaca,More than 75%,96,,534,
+1347,Santiago Huajolotitlan,Oaxaca,More than 50%,62,6,4207,1
+1349,Santiago Ihuitlan Plumas,Oaxaca,More than 75%,89.4,,362,
+1281,Santiago Ixcuintepec,Oaxaca,More than 75%,92.6,1,1648,1
+1350,Santiago Ixtayutla,Oaxaca,More than 75%,98,,13446,
+1351,Santiago Jamiltepec,Oaxaca,More than 50%,71.9,8,17206,1
+1352,Santiago Juxtlahuaca,Oaxaca,More than 75%,77.4,12,19010,3
+1472,Santiago Lachiguiri,Oaxaca,More than 75%,85.2,3,5038,0
+1283,Santiago Lalopa,Oaxaca,More than 75%,90.4,,514,
+1284,Santiago Laollaga,Oaxaca,More than 50%,71.9,2,3430,1
+1285,Santiago Laxopa,Oaxaca,More than 75%,96.1,,1332,
+1029,Santiago Matatlan,Oaxaca,More than 75%,89.5,1,9967,1
+1081,Santiago Minas,Oaxaca,More than 75%,94.5,,1489,
+1082,Santiago Nacaltepec,Oaxaca,More than 75%,92.7,,1841,
+1083,Santiago Nejapilla,Oaxaca,More than 75%,97.7,,208,
+1084,Santiago Nundiche,Oaxaca,More than 75%,96.3,,904,
+1085,Santiago Nuyoo,Oaxaca,More than 75%,98.8,,1877,
+1086,Santiago Pinotepa Nacional,Oaxaca,More than 50%,66.6,47,73993,5
+961,Santiago Suchilquitongo,Oaxaca,More than 50%,69.8,14,12697,4
+1087,Santiago Tamazola,Oaxaca,More than 75%,81.1,2,4383,1
+1088,Santiago Tapextla,Oaxaca,More than 75%,87.5,,3308,
+1089,Villa Tejapam de la Union,Oaxaca,More than 50%,72.7,,2478,
+969,Santiago Tenango,Oaxaca,More than 75%,80.6,,2057,
+1090,Santiago Tepetlapa,Oaxaca,More than 75%,99,,118,
+1091,Santiago Tetepec,Oaxaca,More than 75%,91.6,,5149,
+1092,Santiago Texcalcingo,Oaxaca,More than 75%,98.8,,3195,
+1094,Santiago Tilantongo,Oaxaca,More than 75%,93.8,1,3048,0
+1095,Santiago Tillo,Oaxaca,More than 75%,83.3,,539,
+1286,Santiago Xanica,Oaxaca,More than 75%,95.5,,3198,
+1030,Santiago Xiacui,Oaxaca,More than 75%,76.7,,1790,
+1287,Santiago Yaveo,Oaxaca,More than 50%,72.3,1,7099,0
+1097,Santiago Yolomecatl,Oaxaca,More than 50%,58.3,2,2153,0
+1099,Santiago Yucuyachi,Oaxaca,More than 75%,76.8,,965,
+1288,Santiago Zacatepec,Oaxaca,More than 75%,93.4,,5349,
+1289,Santiago Zoochila,Oaxaca,More than 75%,79.1,,415,
+1031,Nuevo Zoquiapam,Oaxaca,More than 75%,86.7,,1706,
+1290,Santo Domingo Ingenio,Oaxaca,More than 50%,72.1,3,8208,3
+1291,Santo Domingo Albarradas,Oaxaca,More than 75%,88.8,,779,
+1100,Santo Domingo Armenta,Oaxaca,More than 75%,88.6,,3577,
+1293,Santo Domingo de Morelos,Oaxaca,More than 75%,92.2,,11069,
+1101,Santo Domingo Ixcatlan,Oaxaca,More than 75%,94.3,,672,
+971,Santo Domingo Nuxaa,Oaxaca,More than 75%,98.2,,3221,
+1294,Santo Domingo Ozolotepec,Oaxaca,More than 75%,99.3,,897,
+1295,Santo Domingo Petapa,Oaxaca,More than 75%,87.2,,9443,
+1296,Santo Domingo Roayaga,Oaxaca,More than 75%,98.2,,1052,
+1484,Santo Domingo Tehuantepec,Oaxaca,More than 50%,59.4,58,61789,12
+1102,Santo Domingo Teojomulco,Oaxaca,More than 75%,92.4,6,5252,0
+1467,Santo Domingo Tlatayapam,Oaxaca,More than 75%,94,,136,
+1032,Santo Domingo Tomaltepec,Oaxaca,More than 50%,53.3,6,3080,0
+1104,Santo Domingo Tonaltepec,Oaxaca,More than 75%,99.1,,242,
+1298,Santo Domingo Xagacia,Oaxaca,More than 75%,94.5,,1062,
+1105,Santo Domingo Yanhuitlan,Oaxaca,More than 75%,82.6,2,1549,0
+1107,Santos Reyes Nopala,Oaxaca,More than 75%,77.4,15,16061,1
+1108,Santos Reyes Papalo,Oaxaca,More than 75%,98.1,,2681,
+1109,Santos Reyes Tepejillo,Oaxaca,More than 75%,93.2,,1011,
+1110,Santos Reyes Yucuna,Oaxaca,More than 75%,99.9,,1423,
+953,Santo Tomas Jalieza,Oaxaca,More than 75%,85.1,2,3727,0
+972,Santo Tomas Mazaltepec,Oaxaca,More than 50%,69.5,1,2714,2
+1111,Santo Tomas Ocotepec,Oaxaca,More than 75%,96.8,,3821,
+1300,Santo Tomas Tamazulapan,Oaxaca,More than 75%,76.5,,2197,
+1301,San Vicente Coatlan,Oaxaca,More than 75%,97.4,6,4044,1
+973,San Vicente Lachixio,Oaxaca,More than 75%,97.2,,3053,
+1112,San Vicente Nuñu,Oaxaca,More than 75%,86.6,,426,
+1481,Silacayoapam,Oaxaca,More than 75%,77.1,1,6696,1
+1302,Sitio de Xitlapehua,Oaxaca,More than 75%,86.9,,690,
+1033,Soledad Etla,Oaxaca,More than 50%,65.1,22,5763,3
+1113,Villa de Tamazulapam del Progreso,Oaxaca,More than 50%,68.9,5,7928,1
+1303,Tanetze de Zaragoza,Oaxaca,More than 75%,89.4,,1672,
+1471,Taniche,Oaxaca,More than 75%,83.3,1,851,0
+1114,Tataltepec de Valdes,Oaxaca,More than 75%,95.5,,6052,
+1034,Teococuilco de Marcos Perez,Oaxaca,More than 75%,84.5,1,1047,0
+1115,Teotitlan de Flores Magon,Oaxaca,More than 50%,72,13,10176,1
+955,Teotitlan del Valle,Oaxaca,More than 75%,81.1,6,5964,1
+1116,Teotongo,Oaxaca,More than 75%,87,1,960,0
+1074,Tepelmeme Villa de Morelos,Oaxaca,More than 75%,78.5,11,1656,1
+1117,Tezoatlan de Segura y Luna,Oaxaca,More than 50%,73.1,1,8804,0
+956,San Jeronimo Tlacochahuaya,Oaxaca,More than 50%,70.4,7,5662,1
+1486,Tlacolula de Matamoros,Oaxaca,More than 50%,53.9,57,21816,8
+1118,Tlacotepec Plumas,Oaxaca,More than 75%,91.8,,452,
+960,Tlalixtac de Cabrera,Oaxaca,More than 50%,65,20,12311,0
+1304,Totontepec Villa de Morelos,Oaxaca,More than 75%,97.1,,5525,
+1035,Trinidad Zaachila,Oaxaca,More than 50%,69.6,7,3127,0
+1119,La Trinidad Vista Hermosa,Oaxaca,More than 75%,90.3,,268,
+936,Union Hidalgo,Oaxaca,More than 50%,63.7,10,14704,2
+1120,Valerio Trujano,Oaxaca,More than 75%,78.3,3,1414,0
+1305,San Juan Bautista Valle Nacional,Oaxaca,More than 75%,79.2,12,14937,1
+1037,Yaxe,Oaxaca,More than 75%,97.2,2,2876,0
+1306,Yogana,Oaxaca,More than 75%,88.7,,1303,
+1121,Yutanduchi de Guerrero,Oaxaca,More than 75%,98.6,,1164,
+1038,Villa de Zaachila,Oaxaca,More than 50%,58.5,118,48757,14
+1123,Zapotitlan Lagunas,Oaxaca,More than 75%,89.1,,3240,
+1124,Zapotitlan Palmas,Oaxaca,More than 75%,86.3,,1476,
+974,Santa Ines de Zaragoza,Oaxaca,More than 75%,93.7,1,1666,0
+1485,Zimatlan de Alvarez,Oaxaca,More than 50%,68.7,34,15668,5
+1898,Acajete,Puebla,More than 75%,79.7,45,62073,13
+1899,Acateno,Puebla,More than 75%,77.3,1,9181,1
+2198,Acatlan,Puebla,More than 50%,72.3,13,34492,2
+1900,Acatzingo,Puebla,More than 75%,80.9,37,51180,8
+1901,Acteopan,Puebla,More than 75%,83.6,3,3017,3
+1903,Ahuatlan,Puebla,More than 75%,91.7,1,3216,1
+1904,Ahuazotepec,Puebla,More than 50%,58.9,4,13377,2
+1905,Ahuehuetitla,Puebla,More than 75%,86.6,1,1820,1
+1906,Ajalpan,Puebla,More than 75%,81.2,25,58654,9
+1907,Albino Zertuche,Puebla,More than 75%,81.7,,1807,
+1908,Aljojuca,Puebla,More than 75%,82.7,2,6583,1
+1909,Altepexi,Puebla,More than 75%,75.8,15,24023,9
+1911,Amozoc,Puebla,More than 50%,69.6,105,118823,20
+1912,Aquixtla,Puebla,More than 75%,79.4,2,8848,0
+1913,Atempan,Puebla,More than 75%,80.4,10,22298,4
+1914,Atexcal,Puebla,More than 75%,82.6,1,3714,1
+1915,Atlixco,Puebla,More than 50%,67.4,145,134720,25
+1916,Atoyatempan,Puebla,More than 75%,91,3,7106,1
+1918,Atzitzihuacan,Puebla,More than 75%,87.4,3,8142,2
+1919,Atzitzintla,Puebla,More than 75%,93.8,1,9433,0
+1920,Axutla,Puebla,More than 75%,81.1,,910,
+1921,Ayotoxco de Guerrero,Puebla,More than 75%,78.3,3,8628,2
+1922,Calpan,Puebla,More than 75%,82,11,11767,1
+1890,Caltepec,Puebla,More than 75%,89.3,2,3923,3
+1923,Camocuautla,Puebla,More than 75%,91.9,,2649,
+1927,Cohetzala,Puebla,More than 75%,94.2,3,1392,2
+1928,Cohuecan,Puebla,More than 75%,83.4,,4931,
+1929,Coronango,Puebla,More than 50%,74.1,30,37622,8
+1930,Coxcatlan,Puebla,More than 50%,72.1,6,18615,0
+1931,Coyomeapan,Puebla,More than 75%,94,,14072,
+1932,Coyotepec,Puebla,More than 50%,71.5,4,2241,1
+1933,Cuapiaxtla de Madero,Puebla,More than 75%,75.8,8,11571,2
+1934,Cuautempan,Puebla,More than 75%,81.7,2,9425,1
+1935,Cuautinchan,Puebla,More than 50%,63.3,1,13224,0
+1936,Cuautlancingo,Puebla,More than 50%,53.8,142,121070,17
+1937,Cuayuca de Andrade,Puebla,More than 75%,89.3,,3193,
+1938,Cuetzalan del Progreso,Puebla,More than 50%,74.6,5,47446,3
+1939,Cuyoaco,Puebla,More than 50%,74.6,4,15180,3
+1940,Chalchicomula de Sesma,Puebla,More than 75%,75.1,40,44353,6
+1941,Chapulco,Puebla,More than 75%,79.3,4,7823,1
+1891,Chiautla,Puebla,More than 75%,75.3,21,17496,5
+1942,Chiautzingo,Puebla,More than 75%,82.9,12,17560,2
+1945,Chietla,Puebla,More than 50%,71.8,17,33828,6
+1947,Chignahuapan,Puebla,More than 75%,76.7,39,61172,7
+1948,Chignautla,Puebla,More than 50%,74.6,5,35836,2
+1949,Chila,Puebla,More than 75%,84.7,,4558,
+1950,Chila de la Sal,Puebla,More than 75%,84.8,1,1373,1
+1951,Honey,Puebla,More than 75%,85.9,1,7931,0
+1952,Chilchotla,Puebla,More than 75%,91.3,5,11125,4
+1953,Chinantla,Puebla,More than 75%,78.4,3,2240,0
+1954,Domingo Arenas,Puebla,More than 75%,83.7,3,7491,3
+1955,Eloxochitlan,Puebla,More than 75%,96.7,,12637,
+1956,Epatlan,Puebla,More than 50%,71,5,4925,1
+1957,Esperanza,Puebla,More than 75%,77.5,10,14344,1
+1958,Francisco Z. Mena,Puebla,More than 50%,72,1,20343,0
+1959,General Felipe Angeles,Puebla,More than 75%,80.1,3,21085,0
+1961,Guadalupe Victoria,Puebla,More than 75%,79.3,16,14805,5
+1962,Hermenegildo Galeana,Puebla,More than 75%,86.9,1,7683,0
+1963,Huaquechula,Puebla,More than 75%,75.1,19,24024,3
+1964,Huatlatlauca,Puebla,More than 75%,90.9,3,6377,0
+1965,Huauchinango,Puebla,More than 50%,69.3,135,98031,27
+1892,Huehuetla,Puebla,More than 75%,85.5,3,11010,3
+1893,Huehuetlan el Chico,Puebla,More than 75%,93.3,7,8518,4
+1966,Huejotzingo,Puebla,More than 50%,66.7,199,73633,17
+1967,Hueyapan,Puebla,More than 75%,85.5,3,9737,1
+1968,Hueytamalco,Puebla,More than 50%,74.2,4,27225,1
+1969,Hueytlalpan,Puebla,More than 75%,89.4,2,5235,0
+1971,Huitziltepec,Puebla,More than 75%,77.8,2,5422,1
+1972,Atlequizayan,Puebla,More than 75%,89.2,,2586,
+1973,Ixcamilpa de Guerrero,Puebla,More than 75%,89.8,1,3669,0
+1974,Ixcaquixtla,Puebla,More than 75%,76.1,6,8828,0
+1975,Ixtacamaxtitlan,Puebla,More than 75%,81.2,4,20731,0
+1976,Ixtepec,Puebla,More than 75%,88.9,2,7037,0
+1977,Izucar de Matamoros,Puebla,More than 50%,70.9,88,73629,14
+1978,Jalpan,Puebla,More than 75%,75.2,3,13610,1
+1979,Jolalpan,Puebla,More than 75%,87.4,3,8304,1
+1894,Jonotla,Puebla,More than 75%,80.2,1,4547,0
+1980,Jopala,Puebla,More than 75%,82.4,2,11173,0
+1981,Juan C. Bonilla,Puebla,More than 50%,74.8,22,19348,1
+1982,Juan Galindo,Puebla,More than 50%,66.3,12,11129,1
+1985,Libres,Puebla,More than 75%,76.5,19,31520,3
+1987,Mazapiltepec de Juarez,Puebla,More than 50%,74,2,2853,0
+1988,Mixtla,Puebla,More than 50%,71.1,2,2355,0
+1989,Molcaxac,Puebla,More than 75%,82.7,4,6412,2
+1990,Cañada Morelos,Puebla,More than 75%,79.9,3,18769,0
+1991,Naupan,Puebla,More than 75%,85.9,6,10069,3
+1992,Nauzontla,Puebla,More than 75%,80.9,2,3320,1
+1993,Nealtican,Puebla,More than 75%,80,5,10912,2
+1994,Nicolas Bravo,Puebla,More than 75%,88,1,6318,0
+1995,Nopalucan,Puebla,More than 75%,75.4,17,28018,4
+1997,Ocoyucan,Puebla,More than 75%,77,57,27221,12
+1998,Olintla,Puebla,More than 75%,84.4,2,7530,0
+1999,Oriental,Puebla,More than 75%,77.9,9,17441,2
+2000,Pahuatlan,Puebla,More than 75%,80.6,2,19392,1
+2001,Palmar de Bravo,Puebla,More than 75%,83.7,21,40457,3
+2002,Pantepec,Puebla,More than 75%,77.6,2,16833,0
+2003,Petlalcingo,Puebla,More than 75%,88.6,2,9712,0
+2004,Piaxtla,Puebla,More than 75%,82.2,2,4362,2
+2005,Puebla,Puebla,More than 50%,51.1,7000,1719828,934
+2006,Quecholac,Puebla,More than 75%,82.3,4,47042,5
+2007,Quimixtlan,Puebla,More than 75%,83.2,3,16321,0
+1897,Rafael Lara Grajales,Puebla,More than 50%,69.6,11,15053,1
+2008,Los Reyes de Juarez,Puebla,More than 75%,85.7,20,21410,8
+2009,San Andres Cholula,Puebla,More than 25%,42.5,330,156754,49
+2010,San Antonio Cañada,Puebla,More than 75%,85.5,3,5643,1
+2011,San Diego la Mesa Tochimiltzingo,Puebla,More than 75%,93.7,,1209,
+2012,San Felipe Teotlalcingo,Puebla,More than 75%,76.8,15,9578,3
+2013,San Felipe Tepatlan,Puebla,More than 75%,85.5,1,3873,1
+2014,San Gabriel Chilac,Puebla,More than 75%,77.5,8,16776,2
+2015,San Gregorio Atzompa,Puebla,More than 50%,66,7,9042,1
+2016,San Jeronimo Tecuanipan,Puebla,More than 50%,74.1,1,6324,1
+2017,San Jeronimo Xayacatlan,Puebla,More than 75%,78.8,3,3474,0
+2018,San Jose Chiapa,Puebla,More than 75%,76.7,5,8772,1
+2019,San Jose Miahuatlan,Puebla,More than 75%,77.3,2,14450,2
+2020,San Juan Atenco,Puebla,More than 75%,80.2,3,3394,0
+2022,San Martin Texmelucan,Puebla,More than 50%,70.7,263,151019,55
+2023,San Martin Totoltepec,Puebla,More than 75%,84.2,,706,
+2024,San Matias Tlalancaleca,Puebla,More than 75%,76,20,19669,4
+2025,San Miguel Ixitlan,Puebla,More than 75%,98.4,2,482,1
+2026,San Miguel Xoxtla,Puebla,More than 50%,66.9,7,12793,2
+2027,San Nicolas Buenos Aires,Puebla,More than 75%,88.5,6,10062,1
+2029,San Pablo Anicano,Puebla,More than 75%,77.5,1,3566,0
+2030,San Pedro Cholula,Puebla,More than 50%,62.1,285,123037,33
+2031,San Pedro Yeloixtlahuaca,Puebla,More than 75%,76.5,1,3350,1
+2032,San Salvador el Seco,Puebla,More than 75%,82.1,34,26365,9
+2033,San Salvador el Verde,Puebla,More than 75%,77.5,33,28803,9
+2034,San Salvador Huixcolotla,Puebla,More than 75%,78.7,29,14580,0
+2035,San Sebastian Tlacotepec,Puebla,More than 75%,85.1,1,9847,0
+2037,Santa Ines Ahuatempan,Puebla,More than 75%,93.3,2,6349,1
+2038,Santa Isabel Cholula,Puebla,More than 50%,68.3,10,9324,4
+2039,Santiago Miahuatlan,Puebla,More than 50%,70.6,6,29433,2
+2041,Santo Tomas Hueyotlipan,Puebla,More than 75%,89,7,8592,1
+2042,Soltepec,Puebla,More than 75%,86.6,9,9456,3
+2043,Tecali de Herrera,Puebla,More than 50%,71.9,30,23651,4
+2044,Tecamachalco,Puebla,More than 75%,75.5,68,77352,10
+1895,Tecomatlan,Puebla,More than 75%,79.1,4,5495,1
+2045,Tehuacan,Puebla,More than 50%,64.8,391,361360,91
+2046,Tehuitzingo,Puebla,More than 75%,78.1,7,9085,1
+2048,Teopantlan,Puebla,More than 75%,94.7,,3741,
+2049,Teotlalco,Puebla,More than 75%,75.3,6,3165,0
+2050,Tepanco de Lopez,Puebla,More than 50%,69.3,7,22092,8
+2052,Tepatlaxco de Hidalgo,Puebla,More than 75%,79,18,18217,3
+2053,Tepeaca,Puebla,More than 50%,72.7,129,84293,15
+2054,Tepemaxalco,Puebla,More than 75%,97,,1135,
+2055,Tepeojuma,Puebla,More than 75%,84,5,8572,4
+2056,Tepetzintla,Puebla,More than 75%,84.7,1,9047,0
+2057,Tepexco,Puebla,More than 75%,88.1,3,6857,1
+2058,Tepexi de Rodriguez,Puebla,More than 50%,72,29,20795,1
+2059,Tepeyahualco,Puebla,More than 50%,74,8,18327,0
+2060,Tepeyahualco de Cuauhtemoc,Puebla,More than 75%,79,4,3567,0
+2061,Tetela de Ocampo,Puebla,More than 50%,72.9,13,27882,1
+2062,Teteles de Avila Castillo,Puebla,More than 50%,70.1,,5911,
+2063,Teziutlan,Puebla,More than 50%,63.9,34,107616,7
+2064,Tianguismanalco,Puebla,More than 50%,70.2,2,11683,1
+2065,Tilapa,Puebla,More than 50%,70.1,1,8628,0
+2066,Tlacotepec de Benito Juarez,Puebla,More than 75%,79.7,18,46199,7
+2068,Tlachichuca,Puebla,More than 75%,81.9,31,23655,11
+2069,Tlahuapan,Puebla,More than 75%,80.4,21,36512,5
+2070,Tlaltenango,Puebla,More than 75%,83.8,3,7189,1
+2071,Tlanepantla,Puebla,More than 75%,93.5,5,5002,1
+2072,Tlaola,Puebla,More than 75%,84.2,3,14393,1
+2074,Tlapanala,Puebla,More than 75%,78.1,4,8523,2
+2075,Tlatlauquitepec,Puebla,More than 50%,73.2,11,49118,1
+2076,Tlaxco,Puebla,More than 75%,77.5,1,5392,1
+2077,Tochimilco,Puebla,More than 75%,85.3,1,12986,2
+2078,Tochtepec,Puebla,More than 75%,80.2,21,19006,3
+2079,Totoltepec de Guerrero,Puebla,More than 75%,78,,1191,
+2080,Tulcingo,Puebla,More than 75%,86.8,18,9229,3
+2081,Tuzamapan de Galeana,Puebla,More than 75%,77.8,1,6373,1
+2082,Tzicatlacoyan,Puebla,More than 75%,83.2,2,7194,0
+2083,Venustiano Carranza,Puebla,More than 50%,72.2,8,32053,3
+2086,Xicotepec,Puebla,More than 50%,71.5,41,84701,6
+2087,Xicotlan,Puebla,More than 75%,95.6,,1188,
+2105,Xiutetelco,Puebla,More than 75%,75.8,10,41163,2
+2088,Xochiapulco,Puebla,More than 75%,83.6,1,3387,0
+2090,Xochitlan de Vicente Suarez,Puebla,More than 75%,83,1,9576,0
+2092,Yaonahuac,Puebla,More than 75%,77.9,3,8018,1
+2093,Yehualtepec,Puebla,More than 75%,81.8,4,23575,3
+2094,Zacapala,Puebla,More than 75%,86.7,3,4436,0
+2095,Zacapoaxtla,Puebla,More than 75%,75.6,26,47580,11
+2096,Zacatlan,Puebla,More than 50%,70.2,39,84716,7
+2097,Zapotitlan,Puebla,More than 75%,79.2,2,8567,0
+2099,Zaragoza,Puebla,More than 50%,67.6,12,15912,1
+2100,Zautla,Puebla,More than 75%,85,4,13268,2
+2101,Zihuateutla,Puebla,More than 75%,76.3,2,14634,0
+2102,Zinacatepec,Puebla,More than 75%,81.2,14,15387,6
+2103,Zongozotla,Puebla,More than 75%,93.8,,4948,
+2104,Zoquitlan,Puebla,More than 75%,98.1,2,18451,1
+1510,Amealco de Bonfil,Queretaro,More than 50%,63.5,10,60063,6
+1496,Pinal de Amoles,Queretaro,More than 50%,72.1,4,20628,4
+1493,Arroyo Seco,Queretaro,More than 50%,52.3,1,13496,0
+1497,Cadereyta de Montes,Queretaro,More than 50%,54.2,26,77942,9
+1501,Colon,Queretaro,More than 25%,46.8,27,67159,6
+1509,Corregidora,Queretaro,Less than 25%,18.7,121,168462,17
+1502,Ezequiel Montes,Queretaro,More than 50%,55.5,15,40018,2
+1507,Huimilpan,Queretaro,More than 25%,42.6,11,41226,4
+1494,Jalpan de Serra,Queretaro,More than 50%,61.1,16,25190,3
+1503,El Marques,Queretaro,More than 25%,38.9,113,160077,33
+1508,Pedro Escobedo,Queretaro,More than 25%,46.1,38,71339,10
+1499,Peñamiller,Queretaro,More than 50%,62.7,3,19814,1
+1504,Queretaro,Queretaro,More than 25%,32.4,1379,849967,234
+1498,San Joaquin,Queretaro,More than 25%,41.5,1,9372,0
+1506,San Juan del Rio,Queretaro,More than 25%,45.2,213,267061,36
+1505,Tequisquiapan,Queretaro,More than 50%,52.4,30,69563,9
+1500,Toliman,Queretaro,More than 50%,60.1,4,32997,1
+2454,Cozumel,Quintana Roo,More than 25%,41.8,95,87900,30
+2453,Felipe Carrillo Puerto,Quintana Roo,More than 50%,74.7,46,80210,11
+2456,Isla Mujeres,Quintana Roo,More than 25%,38.8,30,23166,4
+2448,Othon P. Blanco,Quintana Roo,More than 25%,43.2,665,242523,60
+2449,Benito Juarez,Quintana Roo,More than 25%,34.8,2236,794164,573
+2450,Jose Maria Morelos,Quintana Roo,More than 75%,81.8,10,33825,4
+2455,Lazaro Cardenas,Quintana Roo,More than 50%,62.2,43,32826,6
+2451,Solidaridad,Quintana Roo,Less than 25%,22.7,559,224084,85
+2452,Tulum,Quintana Roo,More than 25%,33.2,61,38388,6
+0,Bacalar,Quintana Roo,More than 75%,80.7,24,30165,0
+1568,Ahualulco,San Luis Potosi,More than 50%,67.9,4,18343,1
+1567,Alaquines,San Luis Potosi,More than 75%,83.3,1,8432,0
+1566,Aquismon,San Luis Potosi,More than 75%,77.2,28,52435,4
+1564,Cardenas,San Luis Potosi,More than 50%,64.9,11,17157,1
+1563,Catorce,San Luis Potosi,More than 50%,70.7,10,9863,1
+1562,Cedral,San Luis Potosi,More than 50%,64.4,2,17355,0
+1561,Cerritos,San Luis Potosi,More than 50%,62.4,1,20494,0
+1560,Cerro de San Pedro,San Luis Potosi,More than 25%,35.2,9,4611,2
+1559,Ciudad del Maiz,San Luis Potosi,More than 75%,76.9,8,30565,1
+1558,Ciudad Fernandez,San Luis Potosi,More than 50%,63.4,39,45433,1
+1557,Tancanhuitz,San Luis Potosi,More than 75%,77.2,18,20525,3
+1556,Ciudad Valles,San Luis Potosi,More than 50%,54.6,469,190242,27
+1555,Coxcatlan,San Luis Potosi,More than 75%,86.1,15,14089,2
+1554,Charcas,San Luis Potosi,More than 50%,63.8,5,19537,1
+1553,Ebano,San Luis Potosi,More than 50%,69.1,14,41098,2
+1552,Guadalcazar,San Luis Potosi,More than 50%,74.5,2,27532,0
+1551,Huehuetlan,San Luis Potosi,More than 50%,74.1,20,17336,0
+1550,Lagunillas,San Luis Potosi,More than 75%,81.4,2,5545,0
+1549,Matehuala,San Luis Potosi,More than 50%,50.5,87,100611,10
+1548,Mexquitic de Carmona,San Luis Potosi,More than 50%,55.3,33,64337,1
+1547,Moctezuma,San Luis Potosi,More than 50%,71.9,10,19121,2
+1546,Rayon,San Luis Potosi,More than 50%,72,1,14007,0
+1545,Rioverde,San Luis Potosi,More than 50%,62,73,93291,6
+1544,Salinas,San Luis Potosi,More than 50%,71.7,23,27905,2
+1543,San Antonio,San Luis Potosi,More than 75%,90.7,5,9517,1
+1542,San Ciro de Acosta,San Luis Potosi,More than 50%,69.6,8,9451,0
+1541,San Luis Potosi,San Luis Potosi,More than 25%,34.7,1225,866425,111
+1540,San Martin Chalchicuautla,San Luis Potosi,More than 75%,84.9,11,19882,2
+1539,San Nicolas Tolentino,San Luis Potosi,More than 50%,73.8,3,5262,0
+1538,Santa Catarina,San Luis Potosi,More than 75%,92,4,11985,3
+1537,Santa Maria del Rio,San Luis Potosi,More than 50%,63.8,39,42217,2
+1536,Santo Domingo,San Luis Potosi,More than 50%,69.5,5,10562,0
+1535,San Vicente Tancuayalab,San Luis Potosi,More than 75%,76.3,18,15285,0
+1534,Soledad de Graciano Sanchez,San Luis Potosi,More than 25%,39.1,199,309958,26
+1533,Tamasopo,San Luis Potosi,More than 50%,63.2,10,32672,6
+1532,Tamazunchale,San Luis Potosi,More than 75%,76.6,457,93754,26
+1531,Tampacan,San Luis Potosi,More than 75%,82.3,11,13840,2
+1530,Tampamolon Corona,San Luis Potosi,More than 75%,78.5,6,16806,1
+1529,Tamuin,San Luis Potosi,More than 50%,67.1,39,40109,7
+1528,Tanlajas,San Luis Potosi,More than 75%,89.9,12,20075,0
+1527,Tanquian de Escobedo,San Luis Potosi,More than 50%,72.6,18,14908,1
+1526,Tierra Nueva,San Luis Potosi,More than 75%,77.5,6,9536,1
+1525,Vanegas,San Luis Potosi,More than 75%,85.8,4,7756,0
+1524,Venado,San Luis Potosi,More than 50%,69.6,2,13689,0
+1523,Villa de Arriaga,San Luis Potosi,More than 50%,72.5,7,17228,3
+1522,Villa de Guadalupe,San Luis Potosi,More than 75%,82.4,1,9832,1
+1521,Villa de la Paz,San Luis Potosi,More than 50%,57.9,1,5314,0
+1520,Villa de Ramos,San Luis Potosi,More than 75%,87,4,25372,3
+1519,Villa de Reyes,San Luis Potosi,More than 50%,54,17,54374,5
+1518,Villa Hidalgo,San Luis Potosi,More than 50%,60.6,7,15056,2
+1517,Villa Juarez,San Luis Potosi,More than 50%,71.1,5,10322,1
+1516,Axtla de Terrazas,San Luis Potosi,More than 75%,79.2,32,37070,1
+1515,Xilitla,San Luis Potosi,More than 75%,85.5,91,43652,4
+1514,Zaragoza,San Luis Potosi,More than 50%,55.3,3,29665,0
+1513,Villa de Arista,San Luis Potosi,More than 50%,68.8,22,15051,0
+1512,Matlapa,San Luis Potosi,More than 75%,83.3,50,28046,3
+1511,El Naranjo,San Luis Potosi,More than 50%,60.9,9,22184,3
+272,Ahome,Sinaloa,More than 25%,38.7,1385,462049,316
+273,Angostura,Sinaloa,More than 25%,42.7,105,48111,27
+271,Badiraguato,Sinaloa,More than 50%,67.5,42,18540,4
+270,Concordia,Sinaloa,More than 25%,48.5,24,23181,3
+269,Cosala,Sinaloa,More than 50%,64.9,30,9551,3
+258,Culiacan,Sinaloa,More than 25%,30.6,2909,951455,683
+268,Choix,Sinaloa,More than 50%,56.4,14,28046,5
+267,Elota,Sinaloa,More than 25%,37.1,16,53719,6
+266,Escuinapa,Sinaloa,More than 50%,50.5,144,59095,15
+265,El Fuerte,Sinaloa,More than 25%,49.4,118,99266,35
+264,Guasave,Sinaloa,More than 25%,48,1327,281634,218
+256,Mazatlan,Sinaloa,More than 25%,33.1,1378,531615,212
+263,Mocorito,Sinaloa,More than 50%,53.3,60,36780,16
+262,Rosario,Sinaloa,More than 25%,44.5,62,53439,8
+261,Salvador Alvarado,Sinaloa,More than 25%,45.6,501,74430,69
+260,San Ignacio,Sinaloa,More than 50%,52.1,18,18657,4
+257,Sinaloa,Sinaloa,More than 50%,55.2,113,70019,15
+259,Navolato,Sinaloa,More than 25%,38.7,210,172768,63
+322,Aconchi,Sonora,Less than 25%,22.6,2,2862,0
+321,Agua Prieta,Sonora,More than 25%,42.6,223,87269,28
+320,Alamos,Sonora,More than 50%,52.3,23,24054,0
+319,Altar,Sonora,More than 50%,52,9,9956,1
+318,Arivechi,Sonora,More than 25%,28.1,1,1209,0
+317,Arizpe,Sonora,More than 25%,28.5,12,2783,1
+316,Atil,Sonora,Less than 25%,4.4,,604,
+314,Bacanora,Sonora,Less than 25%,14.8,,833,
+313,Bacerac,Sonora,More than 25%,46,3,1421,0
+312,Bacoachi,Sonora,More than 25%,39.7,13,1613,1
+276,Bacum,Sonora,More than 50%,58.2,22,22520,3
+310,Baviacora,Sonora,Less than 25%,17.3,3,3443,0
+309,Bavispe,Sonora,More than 25%,47.6,6,1513,0
+308,Benjamin Hill,Sonora,More than 25%,42.1,10,5441,1
+280,Caborca,Sonora,More than 25%,39.5,109,89457,28
+307,Cajeme,Sonora,More than 25%,42.5,1585,445700,313
+306,Cananea,Sonora,More than 25%,36.5,109,36378,7
+305,Carbo,Sonora,More than 25%,47.4,2,5031,1
+303,Cucurpe,Sonora,Less than 25%,21.6,1,1002,0
+302,Cumpas,Sonora,More than 25%,32.5,6,6351,1
+301,Divisaderos,Sonora,Less than 25%,24.3,2,744,0
+300,Empalme,Sonora,More than 25%,37.8,47,59340,17
+274,Etchojoa,Sonora,More than 50%,56.6,49,59880,17
+299,Fronteras,Sonora,More than 25%,40.4,11,9007,1
+298,Granados,Sonora,Less than 25%,9.8,3,1104,0
+349,Guaymas,Sonora,More than 25%,38.9,355,168456,52
+350,Hermosillo,Sonora,More than 25%,25.6,2394,923631,207
+296,Huachinera,Sonora,More than 25%,31,1,1277,0
+277,Huatabampo,Sonora,More than 50%,52.3,97,82593,24
+294,Imuris,Sonora,More than 25%,30.9,8,13094,3
+293,Magdalena,Sonora,More than 25%,37.3,90,32232,15
+292,Mazatan,Sonora,Less than 25%,22.7,1,1286,0
+291,Moctezuma,Sonora,More than 25%,28.8,9,5163,2
+290,Naco,Sonora,More than 25%,35.8,1,6404,0
+289,Nacori Chico,Sonora,More than 50%,64.1,4,2097,0
+288,Nacozari de Garcia,Sonora,Less than 25%,22.1,35,13961,0
+275,Navojoa,Sonora,More than 25%,47.3,423,167950,81
+287,Nogales,Sonora,More than 25%,31.1,1445,249530,168
+286,Onavas,Sonora,Less than 25%,6.5,1,487,0
+285,Opodepe,Sonora,More than 25%,32,1,2747,1
+284,Oquitoa,Sonora,Less than 25%,4.8,1,387,0
+283,Pitiquito,Sonora,More than 25%,34.4,6,9889,1
+279,Puerto Peñasco,Sonora,More than 25%,48.9,22,65105,9
+282,Quiriego,Sonora,More than 50%,64.4,5,2947,0
+342,Rosario,Sonora,More than 50%,58.9,1,5223,0
+341,Sahuaripa,Sonora,More than 25%,45.5,5,5849,2
+339,San Javier,Sonora,Less than 25%,6.4,,579,
+343,San Luis Rio Colorado,Sonora,More than 25%,47.9,579,202372,124
+338,San Miguel de Horcasitas,Sonora,More than 25%,49.7,9,9441,2
+337,San Pedro de la Cueva,Sonora,Less than 25%,19.2,,1540,
+336,Santa Ana,Sonora,More than 25%,32,56,16840,4
+334,Saric,Sonora,More than 25%,28,3,1629,1
+333,Soyopa,Sonora,More than 25%,25.2,,1474,
+332,Suaqui Grande,Sonora,Less than 25%,13.4,,1187,
+331,Tepache,Sonora,Less than 25%,17.1,2,1279,0
+330,Trincheras,Sonora,Less than 25%,23.2,6,1635,0
+329,Tubutama,Sonora,Less than 25%,23.6,1,1240,0
+328,Ures,Sonora,Less than 25%,21.8,7,9047,0
+327,Villa Hidalgo,Sonora,Less than 25%,24.5,2,1581,0
+297,Villa Pesqueira,Sonora,More than 25%,44.5,1,1228,1
+324,Benito Juarez,Sonora,More than 50%,51.8,21,22410,9
+323,San Ignacio Rio Muerto,Sonora,More than 50%,62.5,8,14485,6
+920,Balancan,Tabasco,More than 50%,59,165,65706,8
+912,Cardenas,Tabasco,More than 50%,59.2,749,216041,93
+919,Centla,Tabasco,More than 50%,60.6,245,118667,29
+906,Centro,Tabasco,More than 25%,32.6,5092,617103,561
+915,Comalcalco,Tabasco,More than 50%,50.2,478,232851,78
+913,Cunduacan,Tabasco,More than 25%,49.6,399,187651,22
+909,Emiliano Zapata,Tabasco,More than 50%,52.4,116,24577,9
+908,Huimanguillo,Tabasco,More than 50%,58.2,326,195229,54
+918,Jalapa,Tabasco,More than 50%,50.7,207,41131,24
+914,Jalpa de Mendez,Tabasco,More than 50%,51.9,466,95732,36
+910,Jonuta,Tabasco,More than 50%,69.9,51,28157,4
+922,Macuspana,Tabasco,More than 50%,55.9,705,156629,74
+907,Nacajuca,Tabasco,More than 25%,38.7,777,146280,99
+911,Paraiso,Tabasco,More than 25%,40.9,324,106963,40
+921,Tacotalpa,Tabasco,More than 50%,66.4,233,44881,12
+917,Teapa,Tabasco,More than 25%,42.5,294,62144,56
+916,Tenosique,Tabasco,More than 50%,58.3,294,51178,15
+2296,Abasolo,Tamaulipas,More than 50%,67.1,1,11798,0
+2297,Aldama,Tamaulipas,More than 50%,56.5,17,30304,3
+2321,Altamira,Tamaulipas,More than 50%,52.5,302,246403,22
+2314,Bustamante,Tamaulipas,More than 75%,90.8,3,8333,0
+2310,Camargo,Tamaulipas,More than 25%,42.1,6,16684,0
+2293,Casas,Tamaulipas,More than 50%,67.3,2,4320,0
+2320,Ciudad Madero,Tamaulipas,More than 25%,37.5,571,216895,33
+2323,Gomez Farias,Tamaulipas,More than 75%,84.9,3,9493,0
+2290,Gonzalez,Tamaulipas,More than 50%,64.1,5,46901,2
+2325,Guemez,Tamaulipas,More than 50%,54.8,13,18023,2
+2317,Guerrero,Tamaulipas,More than 50%,61,3,4583,0
+2307,Gustavo Diaz Ordaz,Tamaulipas,More than 25%,49.1,13,15719,2
+2288,Hidalgo,Tamaulipas,More than 50%,74,1,22540,1
+2324,El Mante,Tamaulipas,More than 50%,56.5,123,114730,18
+2327,Matamoros,Tamaulipas,More than 50%,50.7,1083,527584,121
+2295,Mendez,Tamaulipas,More than 50%,56.1,,4261,
+2318,Mier,Tamaulipas,More than 75%,75.6,9,4471,1
+2330,Miguel Aleman,Tamaulipas,More than 25%,49.6,10,28026,0
+2289,Nuevo Laredo,Tamaulipas,More than 25%,44.7,623,425557,59
+2302,Nuevo Morelos,Tamaulipas,More than 50%,60.8,1,3670,1
+2326,Padilla,Tamaulipas,More than 50%,66.8,26,13754,0
+2315,Palmillas,Tamaulipas,More than 50%,71.8,,1758,
+2328,Reynosa,Tamaulipas,More than 25%,45.5,1487,666261,159
+2329,Rio Bravo,Tamaulipas,More than 50%,53.5,270,131198,19
+2311,San Carlos,Tamaulipas,More than 75%,81.1,1,9016,2
+2316,San Fernando,Tamaulipas,More than 50%,69.4,15,54989,6
+2312,San Nicolas,Tamaulipas,More than 75%,77.6,,1073,
+2304,Soto la Marina,Tamaulipas,More than 50%,55.7,5,26952,2
+2319,Tampico,Tamaulipas,More than 25%,38.3,826,327468,54
+2292,Tula,Tamaulipas,More than 50%,73.8,7,26506,1
+2305,Valle Hermoso,Tamaulipas,More than 50%,54.1,61,68764,3
+2291,Victoria,Tamaulipas,More than 25%,37,537,361881,30
+2313,Villagran,Tamaulipas,More than 50%,73.7,1,6372,0
+2322,Xicotencatl,Tamaulipas,More than 50%,55.5,16,24049,2
+2190,Amaxac de Guerrero,Tlaxcala,More than 50%,59.5,23,11238,4
+1889,Apetatitlan de Antonio Carvajal,Tlaxcala,More than 25%,48.8,53,16833,7
+1888,Atlangatepec,Tlaxcala,More than 50%,64.2,9,6650,1
+1887,Atltzayanca,Tlaxcala,More than 50%,70.8,13,12890,3
+1886,Apizaco,Tlaxcala,More than 50%,52.3,226,86716,37
+1885,Calpulalpan,Tlaxcala,More than 50%,64.2,59,51268,14
+1884,El Carmen Tequexquitla,Tlaxcala,More than 50%,74.7,17,15941,3
+1883,Cuapiaxtla,Tlaxcala,More than 50%,71.5,27,14662,5
+1882,Cuaxomulco,Tlaxcala,More than 50%,71,5,5316,0
+1881,Chiautempan,Tlaxcala,More than 50%,60.4,217,71366,40
+1880,Muñoz de Domingo Arenas,Tlaxcala,More than 50%,60.8,6,4718,2
+1879,Españita,Tlaxcala,More than 50%,71,6,8740,1
+1878,Huamantla,Tlaxcala,More than 50%,67.6,149,81311,28
+1877,Hueyotlipan,Tlaxcala,More than 50%,68.6,33,12177,7
+1876,Ixtacuixtla de Mariano Matamoros,Tlaxcala,More than 50%,60.3,47,34570,7
+1875,Ixtenco,Tlaxcala,More than 75%,78.2,9,7139,1
+1874,Mazatecochco de Jose Maria Morelos,Tlaxcala,More than 50%,72.9,14,9522,7
+1873,Contla de Juan Cuamatzi,Tlaxcala,More than 50%,67.2,94,35112,20
+1872,Tepetitla de Lardizabal,Tlaxcala,More than 50%,64.7,34,19808,6
+1831,Sanctorum de Lazaro Cardenas,Tlaxcala,More than 75%,84.5,11,9568,5
+1871,Nanacamilpa de Mariano Arista,Tlaxcala,More than 50%,67.6,15,17590,4
+1870,Acuamanala de Miguel Hidalgo,Tlaxcala,More than 25%,48.9,8,5975,0
+1869,Nativitas,Tlaxcala,More than 50%,58.8,36,25028,13
+1868,Panotla,Tlaxcala,More than 25%,47,44,25961,4
+1867,San Pablo del Monte,Tlaxcala,More than 50%,66.2,102,96366,33
+1866,Santa Cruz Tlaxcala,Tlaxcala,More than 50%,59,40,21208,8
+1865,Tenancingo,Tlaxcala,More than 50%,65.3,27,13692,8
+1864,Teolocholco,Tlaxcala,More than 50%,65.5,35,22341,9
+1863,Tepeyanco,Tlaxcala,More than 25%,46.4,29,12308,5
+1862,Terrenate,Tlaxcala,More than 75%,75.7,4,10335,3
+1861,Tetla de la Solidaridad,Tlaxcala,More than 50%,59.7,43,36370,5
+1860,Tetlatlahuca,Tlaxcala,More than 50%,58,25,13040,0
+1859,Tlaxcala,Tlaxcala,More than 25%,43.9,432,103015,57
+1858,Tlaxco,Tlaxcala,More than 50%,65.6,37,41848,11
+1857,Tocatlan,Tlaxcala,More than 75%,82.6,11,5892,0
+1856,Totolac,Tlaxcala,More than 25%,40.5,59,22593,4
+1855,Ziltlaltepec de Trinidad Sanchez Santos,Tlaxcala,More than 75%,90,14,9028,2
+1854,Tzompantepec,Tlaxcala,More than 50%,59.4,25,16812,2
+1853,Xaloztoc,Tlaxcala,More than 50%,68.7,25,22127,5
+1852,Xaltocan,Tlaxcala,More than 50%,53.5,22,12454,3
+1851,Papalotla de Xicohtencatl,Tlaxcala,More than 50%,62.3,55,29342,14
+1850,Xicohtzinco,Tlaxcala,More than 50%,60.9,23,14218,4
+1849,Yauhquemehcan,Tlaxcala,More than 50%,55.5,84,42952,12
+1848,Zacatelco,Tlaxcala,More than 50%,61.9,137,44050,26
+1847,Benito Juarez,Tlaxcala,More than 75%,88.6,2,6089,1
+1846,Emiliano Zapata,Tlaxcala,More than 75%,89.2,1,4599,1
+1845,Lazaro Cardenas,Tlaxcala,More than 50%,66.9,3,3129,0
+1844,La Magdalena Tlaltelulco,Tlaxcala,More than 50%,71.6,26,15047,4
+1843,San Damian Texoloc,Tlaxcala,More than 50%,67.2,10,5614,2
+1842,San Francisco Tetlanohcan,Tlaxcala,More than 50%,69.1,11,9028,5
+1841,San Jeronimo Zacualpan,Tlaxcala,More than 50%,64.3,5,3797,2
+1840,San Jose Teacalco,Tlaxcala,More than 75%,84.7,13,5973,6
+1839,San Juan Huactzinco,Tlaxcala,More than 75%,76,16,7571,3
+1838,San Lorenzo Axocomanitla,Tlaxcala,More than 75%,76.3,11,5665,1
+1837,San Lucas Tecopilco,Tlaxcala,More than 75%,82.5,1,3157,0
+1836,Santa Ana Nopalucan,Tlaxcala,More than 75%,77.2,23,7834,7
+1835,Santa Apolonia Teacalco,Tlaxcala,More than 50%,73,6,4597,1
+1834,Santa Catarina Ayometla,Tlaxcala,More than 75%,80.4,14,8890,4
+1833,Santa Cruz Quilehtla,Tlaxcala,More than 75%,81.3,3,7229,2
+1832,Santa Isabel Xiloxoxtla,Tlaxcala,More than 75%,84.2,12,5034,4
+1626,Acajete,Veracruz,More than 50%,64.5,1,8774,0
+1627,Acatlan,Veracruz,More than 75%,93.4,4,3131,2
+1628,Acayucan,Veracruz,More than 50%,66.4,62,91681,13
+1629,Actopan,Veracruz,More than 50%,57.5,13,44831,1
+1630,Acula,Veracruz,More than 50%,62.8,3,5315,1
+1631,Acultzingo,Veracruz,More than 50%,74.9,8,20980,2
+1635,Altotonga,Veracruz,More than 75%,78.6,14,61505,1
+1636,Alvarado,Veracruz,More than 50%,52.4,77,54149,11
+1637,Amatitlan,Veracruz,More than 25%,43.3,11,7944,2
+1638,Naranjos Amatlan,Veracruz,More than 50%,58,21,28128,5
+1639,Amatlan de los Reyes,Veracruz,More than 50%,58.2,41,45313,3
+1640,Angel R. Cabada,Veracruz,More than 50%,63.8,27,36059,9
+1641,La Antigua,Veracruz,More than 25%,47.7,95,25231,8
+1643,Aquila,Veracruz,More than 75%,94.9,,1914,
+1644,Astacinga,Veracruz,More than 75%,96.1,,6499,
+1646,Atoyac,Veracruz,More than 50%,73,16,20707,2
+1647,Atzacan,Veracruz,More than 75%,81.2,13,18861,1
+1648,Atzalan,Veracruz,More than 75%,84.2,5,42675,1
+1649,Tlaltetela,Veracruz,More than 75%,75.5,1,16944,0
+2191,Ayahualulco,Veracruz,More than 75%,91.8,10,18120,4
+1650,Banderilla,Veracruz,More than 50%,54.3,11,22460,0
+1651,Benito Juarez,Veracruz,More than 75%,80.3,2,17239,0
+1652,Boca del Rio,Veracruz,More than 25%,35.1,366,134221,51
+1653,Calcahualco,Veracruz,More than 75%,95.4,1,12863,0
+1654,Camerino Z. Mendoza,Veracruz,More than 50%,69,33,30816,2
+1655,Carrillo Puerto,Veracruz,More than 50%,69.5,4,20080,1
+1656,Catemaco,Veracruz,More than 75%,79.8,18,44092,4
+1657,Cazones de Herrera,Veracruz,More than 50%,69.5,10,27864,3
+1658,Cerro Azul,Veracruz,More than 50%,54.7,18,26270,4
+1659,Citlaltepetl,Veracruz,More than 75%,79.1,,11349,
+1660,Coacoatzintla,Veracruz,More than 75%,80.1,12,8907,2
+1662,Coatepec,Veracruz,More than 50%,50.2,53,87575,13
+1663,Coatzacoalcos,Veracruz,More than 25%,44.4,892,323154,275
+1664,Coatzintla,Veracruz,More than 50%,51.4,78,59234,18
+1665,Coetzala,Veracruz,More than 50%,72.2,3,2225,0
+1667,Comapa,Veracruz,More than 75%,79.9,3,18918,2
+1668,Cordoba,Veracruz,More than 50%,55.1,543,203963,45
+1669,Cosamaloapan de Carpio,Veracruz,More than 50%,57.8,173,60180,8
+1670,Cosautlan de Carvajal,Veracruz,More than 75%,78.8,1,16311,0
+1671,Coscomatepec,Veracruz,More than 75%,80.2,4,50195,0
+1672,Cosoleacaque,Veracruz,More than 50%,55.2,181,139427,59
+1673,Cotaxtla,Veracruz,More than 50%,56.5,2,24300,0
+1674,Coxquihui,Veracruz,More than 75%,80.6,1,14978,0
+1675,Coyutla,Veracruz,More than 75%,82.6,5,20623,1
+1676,Cuichapa,Veracruz,More than 50%,65.7,2,11743,2
+1677,Cuitlahuac,Veracruz,More than 50%,57.7,15,28448,1
+1678,Chacaltianguis,Veracruz,More than 50%,56.7,5,13692,1
+2192,Chalma,Veracruz,More than 50%,69,8,15185,2
+2193,Chiconamel,Veracruz,More than 75%,83.4,2,6650,0
+1679,Chiconquiaco,Veracruz,More than 75%,90.8,2,10757,1
+1680,Chicontepec,Veracruz,More than 75%,79.7,9,51538,2
+1681,Chinameca,Veracruz,More than 50%,62.6,11,18520,0
+1682,Chinampa de Gorostiza,Veracruz,More than 50%,70.1,3,17211,1
+1683,Las Choapas,Veracruz,More than 50%,69.2,97,82276,27
+1684,Chocaman,Veracruz,More than 50%,73.8,5,19339,0
+1685,Chontla,Veracruz,More than 50%,71.2,2,17428,0
+1686,Chumatlan,Veracruz,More than 75%,90.3,1,3859,0
+1687,Emiliano Zapata,Veracruz,More than 25%,44.4,43,81403,8
+1688,Espinal,Veracruz,More than 75%,75.8,5,29144,0
+1689,Filomeno Mata,Veracruz,More than 75%,96.2,1,11493,0
+1690,Fortin,Veracruz,More than 25%,48,142,64519,11
+1691,Gutierrez Zamora,Veracruz,More than 50%,67.9,16,26778,2
+1693,Huatusco,Veracruz,More than 50%,69.8,15,59969,5
+1694,Huayacocotla,Veracruz,More than 75%,78.3,4,18247,0
+1695,Hueyapan de Ocampo,Veracruz,More than 50%,73.9,10,43954,2
+1696,Huiloapan de Cuauhtemoc,Veracruz,More than 50%,66.3,6,7184,1
+1697,Ignacio de la Llave,Veracruz,More than 50%,71.9,3,19436,1
+1699,Isla,Veracruz,More than 50%,68.9,32,48260,2
+1700,Ixcatepec,Veracruz,More than 75%,80.2,1,13609,1
+1702,Ixhuatlan del Café,Veracruz,More than 75%,80.9,5,21491,0
+1703,Ixhuatlancillo,Veracruz,More than 50%,67.5,13,21033,2
+1704,Ixhuatlan del Sureste,Veracruz,More than 50%,54,24,18594,11
+1705,Ixhuatlan de Madero,Veracruz,More than 75%,83,9,46759,1
+1706,Ixmatlahuacan,Veracruz,More than 25%,47,5,5760,1
+1707,Ixtaczoquitlan,Veracruz,More than 50%,66.4,55,57965,10
+1708,Jalacingo,Veracruz,More than 75%,81.9,12,40292,3
+1709,Xalapa,Veracruz,More than 25%,43.6,407,451769,80
+1711,Jaltipan,Veracruz,More than 50%,64.4,65,43759,20
+1712,Jamapa,Veracruz,More than 50%,55.5,12,11884,4
+1713,Jesus Carranza,Veracruz,More than 50%,71,1,32770,0
+1714,Xico,Veracruz,More than 50%,74.1,15,34602,4
+1715,Jilotepec,Veracruz,More than 50%,62.3,7,16791,0
+1716,Juan Rodriguez Clara,Veracruz,More than 50%,72.2,6,43531,0
+1717,Juchique de Ferrer,Veracruz,More than 50%,71.8,1,16388,0
+1718,Landero y Coss,Veracruz,More than 75%,83.3,2,1526,0
+1719,Lerdo de Tejada,Veracruz,More than 50%,56.8,36,17956,10
+1720,Magdalena,Veracruz,More than 75%,85.8,1,3027,1
+1721,Maltrata,Veracruz,More than 75%,83.8,4,13979,1
+1722,Manlio Fabio Altamirano,Veracruz,More than 50%,58.2,28,24673,14
+1723,Mariano Escobedo,Veracruz,More than 50%,72.1,26,31993,3
+1724,Martinez de la Torre,Veracruz,More than 50%,55.1,99,115642,23
+2194,Mecayapan,Veracruz,More than 75%,91.6,2,17221,1
+1726,Medellin,Veracruz,More than 25%,47.3,139,76266,20
+1727,Miahuatlan,Veracruz,More than 75%,92.5,1,4660,0
+1728,Las Minas,Veracruz,More than 75%,86.8,,2905,
+1729,Minatitlan,Veracruz,More than 50%,51.4,451,170386,121
+1730,Misantla,Veracruz,More than 50%,68.5,17,65361,5
+1731,Mixtla de Altamirano,Veracruz,More than 75%,95.3,,11586,
+1732,Moloacan,Veracruz,More than 50%,55.8,9,20637,2
+1733,Naolinco,Veracruz,More than 50%,65.6,5,20699,2
+1734,Naranjal,Veracruz,More than 50%,67.3,2,4532,0
+1735,Nautla,Veracruz,More than 50%,58.1,2,12236,0
+1736,Nogales,Veracruz,More than 50%,63.5,35,34635,7
+1737,Oluta,Veracruz,More than 50%,69.7,8,18322,0
+1738,Omealca,Veracruz,More than 50%,70.5,3,25771,0
+1739,Orizaba,Veracruz,More than 50%,52.6,226,105274,21
+1740,Otatitlan,Veracruz,More than 75%,77.5,,5670,
+1741,Oteapan,Veracruz,More than 75%,78.9,9,15857,1
+1742,Ozuluama de Mascareñas,Veracruz,More than 50%,59.7,3,30341,0
+1743,Pajapan,Veracruz,More than 75%,84,2,17031,1
+1744,Panuco,Veracruz,More than 50%,60.5,26,106046,8
+1745,Papantla,Veracruz,More than 50%,64.3,148,185272,38
+1746,Paso del Macho,Veracruz,More than 50%,65.1,8,33222,5
+1747,Paso de Ovejas,Veracruz,More than 50%,52.5,22,32937,4
+1748,La Perla,Veracruz,More than 75%,90.5,4,20474,1
+1749,Perote,Veracruz,More than 50%,74.5,71,63578,19
+1750,Platon Sanchez,Veracruz,More than 75%,79.5,1,16806,0
+1751,Playa Vicente,Veracruz,More than 50%,72.8,19,42571,7
+1752,Poza Rica de Hidalgo,Veracruz,More than 25%,46.3,600,202700,133
+1753,Las Vigas de Ramirez,Veracruz,More than 75%,78.4,3,17530,1
+1754,Pueblo Viejo,Veracruz,More than 50%,65.1,23,57044,6
+1755,Puente Nacional,Veracruz,More than 50%,55.1,26,21946,4
+1756,Rafael Delgado,Veracruz,More than 75%,80.1,14,20225,0
+1757,Rafael Lucio,Veracruz,More than 50%,65.5,3,8027,0
+1758,Los Reyes,Veracruz,More than 75%,91,,5800,
+1759,Rio Blanco,Veracruz,More than 50%,59.5,73,34330,4
+1760,Saltabarranca,Veracruz,More than 50%,55.8,1,6113,0
+1762,San Andres Tuxtla,Veracruz,More than 75%,77.5,177,151345,47
+1763,San Juan Evangelista,Veracruz,More than 50%,72.3,1,38154,0
+1764,Santiago Tuxtla,Veracruz,More than 75%,76.4,46,58949,12
+1765,Sayula de Aleman,Veracruz,More than 50%,71.6,9,34790,2
+1766,Soconusco,Veracruz,More than 50%,61.9,3,17097,1
+1767,Sochiapa,Veracruz,More than 50%,71.2,1,3637,0
+1768,Soledad Atzompa,Veracruz,More than 75%,95.4,2,23011,1
+1769,Soledad de Doblado,Veracruz,More than 50%,65.5,22,30835,7
+1770,Soteapan,Veracruz,More than 75%,89.4,1,26495,1
+2195,Tamalan,Veracruz,More than 75%,76.5,1,11979,0
+2196,Tamiahua,Veracruz,More than 50%,67.5,2,28740,2
+1771,Tampico Alto,Veracruz,More than 50%,60.2,1,15156,1
+1772,Tancoco,Veracruz,More than 50%,67.7,1,5762,0
+1773,Tantima,Veracruz,More than 50%,64.4,,17035,
+1774,Tantoyuca,Veracruz,More than 75%,75.5,15,108138,4
+1776,Castillo de Teayo,Veracruz,More than 50%,72.6,1,23793,1
+1777,Tecolutla,Veracruz,More than 50%,67.8,6,29971,1
+1779,Alamo Temapache,Veracruz,More than 50%,68.6,31,123430,3
+1780,Tempoal,Veracruz,More than 50%,72.9,14,38774,1
+1781,Tenampa,Veracruz,More than 75%,75.2,,6643,
+1783,Teocelo,Veracruz,More than 50%,68.6,4,15729,3
+1785,Tepetlan,Veracruz,More than 50%,71.1,1,9618,1
+1787,Tequila,Veracruz,More than 75%,87.3,1,11143,0
+1788,Jose Azueta,Veracruz,More than 50%,70.9,20,25283,5
+1790,Texhuacan,Veracruz,More than 75%,86.5,1,5257,1
+1791,Texistepec,Veracruz,More than 50%,72.2,2,22684,0
+1792,Tezonapa,Veracruz,More than 50%,74.8,14,60513,5
+1793,Tierra Blanca,Veracruz,More than 50%,55.9,122,110965,13
+1794,Tihuatlan,Veracruz,More than 50%,57.9,63,122223,28
+1796,Tlacolulan,Veracruz,More than 75%,76.2,3,10094,0
+1797,Tlacotalpan,Veracruz,More than 50%,60.7,12,14848,1
+1798,Tlacotepec de Mejia,Veracruz,More than 50%,73.6,,3813,
+1799,Tlachichilco,Veracruz,More than 75%,85.1,,10180,
+1800,Tlalixcoyan,Veracruz,More than 50%,67.3,20,41095,2
+1801,Tlalnelhuayocan,Veracruz,More than 50%,63.3,6,18979,1
+1802,Tlapacoyan,Veracruz,More than 75%,75.3,15,58836,4
+1803,Tlaquilpa,Veracruz,More than 75%,93.3,,7669,
+1805,Tomatlan,Veracruz,More than 50%,74.4,2,6832,0
+1807,Totutla,Veracruz,More than 75%,77.2,3,16493,1
+1808,Tuxpan,Veracruz,More than 50%,50.9,264,162914,25
+1810,Ursulo Galvan,Veracruz,More than 25%,42.9,33,29250,7
+1811,Vega de Alatorre,Veracruz,More than 50%,67.1,4,20674,1
+2197,Veracruz,Veracruz,More than 25%,40.2,3261,585222,555
+1812,Villa Aldama,Veracruz,More than 75%,79,10,10283,3
+1813,Xoxocotla,Veracruz,More than 75%,90.7,,5416,
+1814,Yanga,Veracruz,More than 50%,54,6,18542,1
+1815,Yecuatla,Veracruz,More than 75%,77.8,2,12112,2
+1816,Zacualpan,Veracruz,More than 75%,85.3,,7154,
+1817,Zaragoza,Veracruz,More than 75%,77,3,13199,1
+1819,Zongolica,Veracruz,More than 75%,83,13,32613,0
+1820,Zontecomatlan de Lopez y Fuentes,Veracruz,More than 75%,86.4,,12806,
+1821,Zozocolco de Hidalgo,Veracruz,More than 75%,87,,12256,
+1822,Agua Dulce,Veracruz,More than 50%,55.8,60,48958,21
+1823,El Higo,Veracruz,More than 50%,54.2,5,21988,0
+1824,Nanchital de Lazaro Cardenas del Rio,Veracruz,More than 25%,38.5,85,31680,41
+1825,Tres Valles,Veracruz,More than 50%,60.8,35,54154,4
+1826,Carlos A. Carrillo,Veracruz,More than 25%,44.6,30,27172,5
+1827,Tatahuicapan de Juarez,Veracruz,More than 75%,84.2,1,14901,1
+1828,Uxpanapa,Veracruz,More than 75%,84.2,7,27381,0
+1829,San Rafael,Veracruz,More than 50%,56.9,9,33819,2
+1830,Santiago Sochiapan,Veracruz,More than 75%,85.4,,11554,
+2432,Abala,Yucatan,More than 50%,50.7,2,6600,1
+2431,Acanceh,Yucatan,More than 25%,49.6,44,20657,18
+2430,Akil,Yucatan,More than 50%,65.7,19,8272,3
+2429,Baca,Yucatan,More than 50%,60.4,13,5899,5
+2428,Bokoba,Yucatan,More than 25%,30.3,8,2224,0
+2427,Buctzotz,Yucatan,More than 75%,77.6,34,9018,1
+2426,Cacalchen,Yucatan,More than 50%,68,16,7333,3
+2425,Calotmul,Yucatan,More than 75%,89.7,5,4052,0
+2424,Cansahcab,Yucatan,More than 50%,64.7,5,4648,1
+2334,Celestun,Yucatan,More than 75%,80.5,1,7954,0
+2422,Cenotillo,Yucatan,More than 75%,83.4,1,3933,0
+2421,Conkal,Yucatan,More than 25%,33.3,15,13918,2
+2420,Cuncunul,Yucatan,More than 50%,60,1,1596,0
+2435,Cuzama,Yucatan,More than 50%,74.8,1,5259,0
+2382,Chacsinkin,Yucatan,More than 75%,90.3,1,3061,0
+2381,Chankom,Yucatan,More than 75%,87.5,4,4652,0
+2380,Chapab,Yucatan,More than 50%,64.2,10,3201,1
+2379,Chemax,Yucatan,More than 75%,79.8,36,23408,7
+2378,Chicxulub Pueblo,Yucatan,More than 50%,66.1,11,4536,2
+2335,Chichimila,Yucatan,More than 75%,90.1,3,8498,2
+2377,Chikindzonot,Yucatan,More than 75%,93.3,13,4229,4
+2336,Chochola,Yucatan,More than 50%,61.5,14,4761,0
+2376,Chumayel,Yucatan,More than 75%,86,2,3358,1
+2375,Dzan,Yucatan,More than 75%,84.3,5,5438,0
+2374,Dzemul,Yucatan,More than 50%,61.2,7,3717,2
+2373,Dzidzantun,Yucatan,More than 50%,56.3,6,8299,1
+2371,Dzilam Gonzalez,Yucatan,More than 75%,78.4,4,6212,0
+2370,Dzitas,Yucatan,More than 75%,87.8,6,3840,0
+2369,Dzoncauich,Yucatan,More than 50%,64.1,2,2648,1
+2368,Espita,Yucatan,More than 75%,77.3,11,9757,3
+2433,Halacho,Yucatan,More than 50%,57.8,12,22708,6
+2367,Hocaba,Yucatan,More than 50%,73.6,20,6181,3
+2366,Hoctun,Yucatan,More than 75%,78.3,12,6066,4
+2434,Homun,Yucatan,More than 75%,76.2,6,7786,1
+2365,Huhi,Yucatan,More than 75%,87.3,10,5297,3
+2364,Hunucma,Yucatan,More than 50%,61.1,81,30893,12
+2363,Ixil,Yucatan,More than 50%,65,3,4135,2
+2362,Izamal,Yucatan,More than 50%,55.8,36,26652,8
+2332,Kanasin,Yucatan,More than 50%,51.8,196,98317,28
+2361,Kantunil,Yucatan,More than 75%,84,3,5537,0
+2360,Kaua,Yucatan,More than 75%,81.6,18,3166,1
+2359,Kinchil,Yucatan,More than 50%,69.5,15,7296,0
+2358,Kopoma,Yucatan,More than 25%,47.3,7,2553,2
+2357,Mama,Yucatan,More than 75%,80.3,9,3259,0
+2356,Mani,Yucatan,More than 75%,78.8,4,5718,1
+2355,Maxcanu,Yucatan,More than 25%,44.8,44,39099,14
+2331,Merida,Yucatan,More than 25%,31.8,2577,936261,309
+2353,Mococha,Yucatan,More than 25%,35.8,2,3264,0
+2436,Motul,Yucatan,More than 50%,52.7,34,39777,11
+2352,Muna,Yucatan,More than 50%,64.4,24,11494,5
+2351,Muxupip,Yucatan,More than 25%,43.3,8,2880,2
+2350,Opichen,Yucatan,More than 75%,76.8,7,6892,1
+2349,Oxkutzcab,Yucatan,More than 50%,67.1,13,21227,4
+2348,Panaba,Yucatan,More than 75%,75.3,3,7903,0
+2347,Peto,Yucatan,More than 50%,72.6,26,15216,1
+2333,Progreso,Yucatan,More than 25%,45.5,65,57820,8
+2346,Quintana Roo,Yucatan,More than 50%,56.4,1,978,1
+2344,Sacalum,Yucatan,More than 75%,77.5,8,4891,0
+2343,Samahil,Yucatan,More than 50%,53.7,28,5194,6
+2342,Sanahcat,Yucatan,More than 50%,53.8,4,1703,4
+2341,San Felipe,Yucatan,More than 25%,25.3,1,1973,0
+2340,Santa Elena,Yucatan,More than 75%,81.7,1,4108,0
+2339,Seye,Yucatan,More than 75%,77.8,16,9871,1
+2338,Sinanche,Yucatan,More than 50%,74.6,3,3135,0
+2337,Sotuta,Yucatan,More than 75%,84.3,2,9035,0
+2419,Sucila,Yucatan,More than 75%,75.8,1,3976,0
+2418,Sudzal,Yucatan,More than 25%,49.2,1,1736,0
+2417,Suma,Yucatan,More than 50%,58.6,2,1789,0
+2415,Tahmek,Yucatan,More than 75%,81.2,13,3696,2
+2414,Teabo,Yucatan,More than 75%,81.8,7,6650,0
+2413,Tecoh,Yucatan,More than 50%,52.8,26,27494,7
+2412,Tekal de Venegas,Yucatan,More than 75%,91.8,1,2656,1
+2411,Tekanto,Yucatan,More than 75%,76.4,2,3843,1
+2410,Tekax,Yucatan,More than 50%,58.7,77,39632,10
+2409,Tekit,Yucatan,More than 50%,71.7,6,9094,1
+2408,Tekom,Yucatan,More than 75%,92.9,13,3262,3
+2407,Telchac Pueblo,Yucatan,More than 50%,74.2,4,3759,1
+2405,Temax,Yucatan,More than 75%,83.4,2,7319,0
+2404,Temozon,Yucatan,More than 50%,74.1,37,11772,1
+2403,Tepakan,Yucatan,More than 50%,57.4,1,2165,0
+2402,Tetiz,Yucatan,More than 50%,67.1,8,5201,2
+2401,Teya,Yucatan,More than 50%,64.3,2,1945,0
+2400,Ticul,Yucatan,More than 50%,60.8,102,39171,3
+2399,Timucuy,Yucatan,More than 50%,63.2,8,7472,2
+2398,Tinum,Yucatan,More than 50%,66.9,15,10210,6
+2397,Tixcacalcupul,Yucatan,More than 75%,93.4,2,7265,0
+2396,Tixkokob,Yucatan,More than 25%,43.8,26,20827,7
+2395,Tixmehuac,Yucatan,More than 75%,80.7,2,4886,0
+2394,Tixpehual,Yucatan,More than 50%,52.5,13,5489,2
+2393,Tizimin,Yucatan,More than 50%,63.6,70,69781,7
+2391,Tzucacab,Yucatan,More than 50%,74.4,5,9379,0
+2390,Uayma,Yucatan,More than 75%,90.5,2,4117,0
+2389,Ucu,Yucatan,More than 50%,55.7,1,3736,0
+2388,Uman,Yucatan,More than 25%,46.4,203,66236,28
+2387,Valladolid,Yucatan,More than 50%,58.1,237,77940,15
+2386,Xocchel,Yucatan,More than 75%,80.6,7,3535,3
+2385,Yaxcaba,Yucatan,More than 50%,71.1,6,12252,2
+2384,Yaxkukul,Yucatan,More than 50%,65.4,3,3156,0
+2383,Yobain,Yucatan,More than 50%,52.9,5,2261,0
+759,Apozol,Zacatecas,More than 50%,66.1,2,6090,0
+762,Benito Juarez,Zacatecas,More than 75%,79.1,2,3987,0
+732,Calera,Zacatecas,More than 50%,67.3,26,41266,7
+733,Cañitas de Felipe Pescador,Zacatecas,More than 75%,78.8,6,8399,3
+730,Concepcion del Oro,Zacatecas,More than 25%,43.5,2,13631,0
+734,Cuauhtemoc,Zacatecas,More than 50%,72.3,4,11553,1
+777,Chalchihuites,Zacatecas,More than 50%,65.5,1,11826,0
+735,Fresnillo,Zacatecas,More than 50%,56.8,241,231457,30
+763,Trinidad Garcia de la Cadena,Zacatecas,More than 25%,49.6,7,2884,0
+736,Genaro Codina,Zacatecas,More than 50%,67.5,1,8191,0
+737,General Enrique Estrada,Zacatecas,More than 50%,67.5,6,6330,1
+781,General Francisco R. Murguia,Zacatecas,More than 75%,77.2,5,21921,2
+738,General Panfilo Natera,Zacatecas,More than 75%,75.3,9,22119,2
+782,Guadalupe,Zacatecas,More than 25%,37.7,152,189495,13
+765,Huanusco,Zacatecas,More than 50%,58.7,,4087,
+766,Jalpa,Zacatecas,More than 50%,58.1,15,24596,1
+739,Jerez,Zacatecas,More than 50%,66.6,41,55114,18
+783,Juan Aldama,Zacatecas,More than 50%,72,1,20278,1
+767,Juchipila,Zacatecas,More than 25%,48.6,6,13572,0
+740,Loreto,Zacatecas,More than 50%,67,40,51817,8
+741,Luis Moya,Zacatecas,More than 50%,61.3,7,13047,1
+742,Mazapil,Zacatecas,More than 50%,65.1,10,20059,1
+768,Mezquital del Oro,Zacatecas,More than 50%,74.4,,2486,
+786,Miguel Auza,Zacatecas,More than 50%,67.2,2,23306,0
+744,Morelos,Zacatecas,More than 50%,56.2,16,12111,2
+770,Moyahua de Estrada,Zacatecas,More than 50%,62.9,,3950,
+771,Nochistlan de Mejia,Zacatecas,More than 50%,66.8,4,26855,0
+745,Noria de Angeles,Zacatecas,More than 75%,75,1,15664,1
+746,Ojocaliente,Zacatecas,More than 50%,69.2,17,43065,4
+747,Panuco,Zacatecas,More than 50%,66.4,3,18187,0
+748,Pinos,Zacatecas,More than 75%,80,14,76220,1
+749,Rio Grande,Zacatecas,More than 50%,58.9,43,65456,16
+750,Sain Alto,Zacatecas,More than 75%,77,6,20910,5
+751,Sombrerete,Zacatecas,More than 50%,61.3,12,66005,6
+752,Susticacan,Zacatecas,More than 50%,69.7,,1330,
+772,Tabasco,Zacatecas,More than 50%,66.7,2,15445,0
+773,Tepechitlan,Zacatecas,More than 50%,69.8,6,8862,2
+753,Tepetongo,Zacatecas,More than 50%,65.9,8,7076,4
+775,Tlaltenango de Sanchez Roman,Zacatecas,More than 50%,58.4,3,27514,1
+779,Valparaiso,Zacatecas,More than 50%,71.2,7,33299,3
+780,Villa de Cos,Zacatecas,More than 50%,74.4,13,33874,2
+754,Villa Garcia,Zacatecas,More than 50%,55.4,8,19715,2
+755,Villa Gonzalez Ortega,Zacatecas,More than 75%,76.1,2,11906,1
+756,Villa Hidalgo,Zacatecas,More than 75%,76.8,2,18155,2
+757,Villanueva,Zacatecas,More than 50%,68.2,6,29957,4
+785,Zacatecas,Zacatecas,More than 25%,34.9,176,150854,28
+758,Trancoso,Zacatecas,More than 50%,70.7,6,18716,3

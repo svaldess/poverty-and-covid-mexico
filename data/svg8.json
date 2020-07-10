@@ -1,0 +1,164 @@
+{ 
+    "name": "poverty" , 
+    "children": [
+        { 
+            "name": "North",
+            "children": [
+                    {  
+                    "name": "Baja California",
+                    "value": 848.4
+                    } ,
+                    {
+                        "name": "Baja California Sur",
+                        "value": 151.7
+                    },
+                    {
+                        "name": "Coahuila",
+                        "value": 691.1
+                    },
+                    {
+                        "name": "Chihuahua",
+                        "value": 1005.7
+                    },
+                    {
+                        "name": "Durango",
+                        "value": 680
+                    },
+                    {
+                        "name": "Nuevo Leon",
+                        "value": 773
+                    },
+                    {
+                        "name": "Sinaloa",
+                        "value": 946.9
+                    },
+                    {
+                        "name": "Sonora",
+                        "value": 863
+                    },
+                    {
+                        "name": "Tamaulipas",
+                        "value": 1287.9
+                    }
+                ]
+                
+            },
+            {
+                "name": "Center-north",
+                "children": [
+                    {
+                        "name": "Aguascalientes",
+                        "value": 351.5
+                    } ,
+                    {
+                        "name": "Guanajuato",
+                        "value": 2857.8
+                    } ,
+                    {
+                        "name": "Queretaro",
+                        "value": 579.2
+                    } ,
+                    {
+                        "name": "San Luis Potosi",
+                        "value": 1229.0
+                    } ,
+                    {
+                        "name": "Zacatecas",
+                        "value": 755.2
+                    } 
+                ]
+            },
+            {
+                "name": "West",
+                "children": [
+                    {
+                        "name": "Colima",
+                        "value": 235.6
+                    },
+                    {
+                        "name": "Jalisco",
+                        "value": 2337.6
+                    },
+                    {
+                        "name": "Michoacan",
+                        "value": 2161.9
+                    },
+                    {
+                        "name": "Nayarit",
+                        "value": 451
+                    }
+                ]
+            },
+            {
+                "name": "East",
+                "children": [
+                    {
+                        "name": "Hidalgo",
+                        "value": 1311.1
+                    },
+                    {
+                        "name": "Puebla",
+                        "value": 3763.7
+                    },
+                    {
+                        "name": "Tlaxcala",
+                        "value": 645.8
+                    },
+                    {
+                        "name": "Veracruz",
+                        "value": 5088.6
+                    }
+                ]
+            },
+            {
+                "name": "Center",
+                "children": [
+                    {
+                        "name": "Mexico City",
+                        "value": 2682.7
+                    },
+                    {
+                        "name": "State of Mexico",
+                        "value": 7546.5
+                    },
+                    {
+                        "name": "Morelos",
+                        "value": 1013.3
+                    }
+                ]
+            },
+            {
+                "name": "South",
+                "children":[
+                    {
+                        "name": "Campeche",
+                        "value": 440.4
+                    },
+                    {
+                        "name": "Chiapas",
+                        "value": 4174.6
+                    },
+                    {
+                        "name": "Guerrero",
+                        "value": 2412.2
+                    },
+                    {
+                        "name": "Oaxaca",
+                        "value": 2714.7
+                    },
+                    {
+                        "name": "Quintana Roo",
+                        "value": 474.8
+                    },
+                    {
+                        "name": "Tabasco",
+                        "value": 1320.2
+                    },
+                    {
+                        "name": "Yucatan",
+                        "value": 900.5
+                    }
+                ]
+            }
+        ]
+}

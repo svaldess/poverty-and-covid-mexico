@@ -1,0 +1,32 @@
+﻿State,Pop no health services,Pop no health services (2016),covid_confirmed,dead_confirmed,dead_rate,%poverty_class,%extremepoverty_class,Pop no health services_class,changeAccessHealth
+Aguascalientes,11.4,12.1,2362,175,7.408975445,low,low,low,-5.785123967
+Baja California,16.9,17.3,9216,2436,26.43229167,low,low,high,-2.312138728
+Baja California Sur,10.7,12.5,1577,114,7.228915663,low,low,low,-14.4
+Campeche,11.7,10.7,1998,256,12.81281281,high,very high,low,9.345794393
+Coahuila,13.2,12.8,4883,457,9.359000614,low,low,medium,3.125
+Colima,10.8,11.9,578,118,20.41522491,medium,medium,low,-9.243697479
+Chiapas,17.6,15,4601,741,16.10519452,very high,very high,very high,17.33333333
+Chihuahua,11.3,12.2,3112,1072,34.44730077,low,medium,low,-7.37704918
+Mexico City,20.1,19.6,48561,7381,15.19943988,medium,low,very high,2.551020408
+Durango,13.1,14.1,2001,210,10.49475262,medium,medium,medium,-7.092198582
+Guanajuato,13.7,13.4,7744,557,7.192665289,high,high,medium,2.23880597
+Guerrero,13.8,13.3,5571,1258,22.5812242,very high,very high,medium,3.759398496
+Hidalgo,14.4,14.4,3977,803,20.19109882,high,high,high,0
+Jalisco,19.4,17.6,6871,1195,17.39193713,medium,high,very high,10.22727273
+State of Mexico,19.8,15.5,34942,7174,20.53116593,high,high,very high,27.74193548
+Michoacan,21.2,22.8,5810,674,11.60068847,high,high,very high,-7.01754386
+Morelos,16.8,15,2960,764,25.81081081,very high,very high,high,12
+Nayarit,13.7,15,1776,291,16.38513514,medium,high,medium,-8.666666667
+Nuevo Leon,13,13.3,6225,588,9.445783133,low,low,medium,-2.255639098
+Oaxaca,16.3,15.9,5409,746,13.79182843,very high,very high,high,2.51572327
+Puebla,20.8,17.4,10717,1673,15.61071195,very high,very high,very high,19.54022989
+Queretaro,11.8,13.2,2012,375,18.63817097,low,medium,low,-10.60606061
+Quintana Roo,15.6,17.6,3769,779,20.66861236,low,high,high,-11.36363636
+San Luis Potosi,9,9.1,3216,282,8.768656716,high,very high,low,-1.098901099
+Sinaloa,13.2,12.2,8456,1702,20.12771996,medium,medium,medium,8.196721311
+Sonora,12.6,14.7,7875,1135,14.41269841,medium,medium,medium,-14.28571429
+Tabasco,12.6,13.4,10921,1214,11.11619815,very high,very high,medium,-5.970149254
+Tamaulipas,12,12.8,6041,544,9.005131601,medium,high,medium,-6.25
+Tlaxcala,13.7,12.5,2541,473,18.61471861,very high,high,medium,9.6
+Veracruz,16.7,19.4,10516,2043,19.42753899,very high,very high,high,-13.91752577
+Zacatecas,11.7,11.5,941,177,18.80977683,high,high,low,1.739130435
