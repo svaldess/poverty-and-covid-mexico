@@ -16,3 +16,4 @@ The raw data was extracted from the National Council for the Evaluation of Socia
 
 - Finally, between 2016 and 2018, more than half of the states in Mexico reported an increment of their population without access to health services. Currently, those regions classified with a very high level of deprivation of health services, also report the largest number of deaths allegedly caused by Covid-19. **This raises concerns about the impact of the pandemic in regions where the population has previously faced limitations to access health services.**
 
+Check the project: https://svaldess.github.io/poverty-and-covid-mexico/
